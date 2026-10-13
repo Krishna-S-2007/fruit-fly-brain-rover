@@ -1,0 +1,7954 @@
+{
+  "seeds": [
+    7,
+    21,
+    42,
+    73,
+    101,
+    123,
+    256,
+    512,
+    999,
+    2026
+  ],
+  "scenarios_per_seed": 20,
+  "total_scenarios": 200,
+  "home_arrivals": 198,
+  "home_arrival_rate_percent": 99.0,
+  "fully_passed_scenarios": 198,
+  "pass_rate_percent": 99.0,
+  "scenarios_with_collision": 0,
+  "total_collision_steps": 0,
+  "results": [
+    {
+      "name": "Seed 7 - Generated 01",
+      "obstacles": [
+        {
+          "x": 4.78,
+          "y": 1.37,
+          "radius": 0.26
+        },
+        {
+          "x": 4.23,
+          "y": -0.44,
+          "radius": 0.4
+        },
+        {
+          "x": 4.61,
+          "y": 0.29,
+          "radius": 0.27
+        },
+        {
+          "x": 2.5,
+          "y": 0.44,
+          "radius": 0.39
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 350,
+      "final_position_m": {
+        "x": -0.002,
+        "y": 0.019
+      },
+      "final_heading_rad": -1.483,
+      "final_distance_m": 0.019,
+      "return_start_distance_m": 11.868,
+      "minimum_clearance_m": 0.589,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 02",
+      "obstacles": [
+        {
+          "x": 4.26,
+          "y": -0.26,
+          "radius": 0.31
+        },
+        {
+          "x": 3.4,
+          "y": 4.69,
+          "radius": 0.39
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 420,
+      "final_position_m": {
+        "x": 0.039,
+        "y": 0.03
+      },
+      "final_heading_rad": -2.533,
+      "final_distance_m": 0.05,
+      "return_start_distance_m": 12.626,
+      "minimum_clearance_m": 0.606,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 03",
+      "obstacles": [
+        {
+          "x": 0.91,
+          "y": 0.33,
+          "radius": 0.39
+        },
+        {
+          "x": 1.27,
+          "y": 1.51,
+          "radius": 0.39
+        },
+        {
+          "x": 3.15,
+          "y": 2.36,
+          "radius": 0.42
+        },
+        {
+          "x": 1.14,
+          "y": 2.43,
+          "radius": 0.3
+        },
+        {
+          "x": 1.12,
+          "y": 3.27,
+          "radius": 0.39
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 438,
+      "final_position_m": {
+        "x": -0.027,
+        "y": -0.019
+      },
+      "final_heading_rad": 0.617,
+      "final_distance_m": 0.033,
+      "return_start_distance_m": 13.425,
+      "minimum_clearance_m": 0.451,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 04",
+      "obstacles": [
+        {
+          "x": 1.59,
+          "y": 3.08,
+          "radius": 0.36
+        },
+        {
+          "x": 2.05,
+          "y": 2.51,
+          "radius": 0.36
+        },
+        {
+          "x": 1.99,
+          "y": 3.77,
+          "radius": 0.42
+        },
+        {
+          "x": 1.75,
+          "y": 2.45,
+          "radius": 0.38
+        },
+        {
+          "x": 4.46,
+          "y": 3.38,
+          "radius": 0.32
+        },
+        {
+          "x": 4.91,
+          "y": -0.29,
+          "radius": 0.35
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 457,
+      "final_position_m": {
+        "x": 0.017,
+        "y": 0.007
+      },
+      "final_heading_rad": -2.683,
+      "final_distance_m": 0.018,
+      "return_start_distance_m": 12.46,
+      "minimum_clearance_m": 0.582,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 05",
+      "obstacles": [
+        {
+          "x": 1.35,
+          "y": 1.93,
+          "radius": 0.26
+        },
+        {
+          "x": 3.57,
+          "y": 3.59,
+          "radius": 0.39
+        },
+        {
+          "x": 4.46,
+          "y": 0.88,
+          "radius": 0.42
+        },
+        {
+          "x": 3.26,
+          "y": 2.48,
+          "radius": 0.36
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 376,
+      "final_position_m": {
+        "x": 0.028,
+        "y": -0.008
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 13.739,
+      "minimum_clearance_m": 0.615,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 06",
+      "obstacles": [
+        {
+          "x": 4.76,
+          "y": 1.84,
+          "radius": 0.42
+        },
+        {
+          "x": 0.96,
+          "y": 3.21,
+          "radius": 0.41
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.214,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 07",
+      "obstacles": [
+        {
+          "x": 1.92,
+          "y": 1.31,
+          "radius": 0.42
+        },
+        {
+          "x": 0.8,
+          "y": 1.77,
+          "radius": 0.29
+        },
+        {
+          "x": 1.2,
+          "y": -0.65,
+          "radius": 0.44
+        },
+        {
+          "x": 1.26,
+          "y": 0.49,
+          "radius": 0.35
+        },
+        {
+          "x": 4.45,
+          "y": -0.52,
+          "radius": 0.36
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 358,
+      "final_position_m": {
+        "x": -0.008,
+        "y": 0.015
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.017,
+      "return_start_distance_m": 12.344,
+      "minimum_clearance_m": 0.581,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 08",
+      "obstacles": [
+        {
+          "x": 1.89,
+          "y": -0.18,
+          "radius": 0.36
+        },
+        {
+          "x": 3.07,
+          "y": 3.24,
+          "radius": 0.5
+        },
+        {
+          "x": 3.64,
+          "y": 1.28,
+          "radius": 0.31
+        },
+        {
+          "x": 1.06,
+          "y": -0.09,
+          "radius": 0.41
+        },
+        {
+          "x": 0.75,
+          "y": 3.99,
+          "radius": 0.3
+        },
+        {
+          "x": 1.91,
+          "y": -0.13,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 321,
+      "final_position_m": {
+        "x": -0.029,
+        "y": 0.027
+      },
+      "final_heading_rad": -0.583,
+      "final_distance_m": 0.04,
+      "return_start_distance_m": 10.005,
+      "minimum_clearance_m": 0.524,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 09",
+      "obstacles": [
+        {
+          "x": 3.14,
+          "y": 4.72,
+          "radius": 0.42
+        },
+        {
+          "x": 2.92,
+          "y": 2.71,
+          "radius": 0.42
+        },
+        {
+          "x": 0.93,
+          "y": 4.4,
+          "radius": 0.44
+        },
+        {
+          "x": 4.46,
+          "y": 3.79,
+          "radius": 0.35
+        },
+        {
+          "x": 2.42,
+          "y": -0.38,
+          "radius": 0.41
+        },
+        {
+          "x": 0.97,
+          "y": -0.6,
+          "radius": 0.3
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 265,
+      "final_position_m": {
+        "x": -0.026,
+        "y": 0.012
+      },
+      "final_heading_rad": -0.283,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 6.102,
+      "minimum_clearance_m": 0.596,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 10",
+      "obstacles": [
+        {
+          "x": 1.17,
+          "y": 2.6,
+          "radius": 0.28
+        },
+        {
+          "x": 3.14,
+          "y": 2.22,
+          "radius": 0.49
+        },
+        {
+          "x": 3.34,
+          "y": -0.58,
+          "radius": 0.3
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 407,
+      "final_position_m": {
+        "x": 0.048,
+        "y": 0.008
+      },
+      "final_heading_rad": -2.983,
+      "final_distance_m": 0.048,
+      "return_start_distance_m": 13.248,
+      "minimum_clearance_m": 0.577,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 11",
+      "obstacles": [
+        {
+          "x": 1.34,
+          "y": 0.51,
+          "radius": 0.34
+        },
+        {
+          "x": 2.27,
+          "y": -0.26,
+          "radius": 0.46
+        },
+        {
+          "x": 4.97,
+          "y": 1.8,
+          "radius": 0.37
+        },
+        {
+          "x": 1.07,
+          "y": -0.39,
+          "radius": 0.34
+        },
+        {
+          "x": 1.84,
+          "y": 3.97,
+          "radius": 0.29
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 316,
+      "final_position_m": {
+        "x": -0.004,
+        "y": 0.02
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 9.563,
+      "minimum_clearance_m": 0.588,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 12",
+      "obstacles": [
+        {
+          "x": 1.58,
+          "y": 4.71,
+          "radius": 0.34
+        },
+        {
+          "x": 3.67,
+          "y": 4.48,
+          "radius": 0.44
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 3.825,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 13",
+      "obstacles": [
+        {
+          "x": 4.91,
+          "y": 4.18,
+          "radius": 0.42
+        },
+        {
+          "x": 1.82,
+          "y": 1.2,
+          "radius": 0.29
+        },
+        {
+          "x": 4.02,
+          "y": 2.2,
+          "radius": 0.44
+        },
+        {
+          "x": 2.12,
+          "y": 0.34,
+          "radius": 0.45
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 323,
+      "final_position_m": {
+        "x": -0.016,
+        "y": 0.044
+      },
+      "final_heading_rad": -1.183,
+      "final_distance_m": 0.046,
+      "return_start_distance_m": 10.039,
+      "minimum_clearance_m": 0.573,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 14",
+      "obstacles": [
+        {
+          "x": 4.17,
+          "y": 3.91,
+          "radius": 0.43
+        },
+        {
+          "x": 1.67,
+          "y": 2.11,
+          "radius": 0.34
+        },
+        {
+          "x": 0.82,
+          "y": -0.83,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 384,
+      "final_position_m": {
+        "x": 0.044,
+        "y": 0.014
+      },
+      "final_heading_rad": -2.683,
+      "final_distance_m": 0.046,
+      "return_start_distance_m": 14.315,
+      "minimum_clearance_m": 0.621,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 15",
+      "obstacles": [
+        {
+          "x": 1.53,
+          "y": 2.63,
+          "radius": 0.34
+        },
+        {
+          "x": 4.18,
+          "y": 3.34,
+          "radius": 0.34
+        },
+        {
+          "x": 4.89,
+          "y": -0.52,
+          "radius": 0.28
+        },
+        {
+          "x": 2.72,
+          "y": 1.03,
+          "radius": 0.37
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 341,
+      "final_position_m": {
+        "x": 0.029,
+        "y": -0.037
+      },
+      "final_heading_rad": 2.233,
+      "final_distance_m": 0.048,
+      "return_start_distance_m": 11.365,
+      "minimum_clearance_m": 0.615,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 16",
+      "obstacles": [
+        {
+          "x": 4.31,
+          "y": 1.88,
+          "radius": 0.41
+        },
+        {
+          "x": 4.14,
+          "y": -0.49,
+          "radius": 0.42
+        },
+        {
+          "x": 4.61,
+          "y": 3.69,
+          "radius": 0.44
+        },
+        {
+          "x": 2.76,
+          "y": 0.07,
+          "radius": 0.45
+        },
+        {
+          "x": 2.13,
+          "y": 3.8,
+          "radius": 0.49
+        },
+        {
+          "x": 2.4,
+          "y": 1.41,
+          "radius": 0.49
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 306,
+      "final_position_m": {
+        "x": -0.018,
+        "y": 0.029
+      },
+      "final_heading_rad": -0.883,
+      "final_distance_m": 0.034,
+      "return_start_distance_m": 8.842,
+      "minimum_clearance_m": 0.582,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 17",
+      "obstacles": [
+        {
+          "x": 1.43,
+          "y": -0.24,
+          "radius": 0.29
+        },
+        {
+          "x": 4.59,
+          "y": 3.84,
+          "radius": 0.29
+        },
+        {
+          "x": 4.25,
+          "y": 4.88,
+          "radius": 0.41
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 360,
+      "final_position_m": {
+        "x": 0.016,
+        "y": 0.041
+      },
+      "final_heading_rad": -1.783,
+      "final_distance_m": 0.043,
+      "return_start_distance_m": 12.643,
+      "minimum_clearance_m": 0.603,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 18",
+      "obstacles": [
+        {
+          "x": 1.37,
+          "y": 2.29,
+          "radius": 0.26
+        },
+        {
+          "x": 4.14,
+          "y": 3.36,
+          "radius": 0.28
+        },
+        {
+          "x": 3.92,
+          "y": -0.16,
+          "radius": 0.5
+        },
+        {
+          "x": 1.54,
+          "y": 4.24,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 314,
+      "final_position_m": {
+        "x": 0.001,
+        "y": 0.048
+      },
+      "final_heading_rad": -1.483,
+      "final_distance_m": 0.048,
+      "return_start_distance_m": 9.671,
+      "minimum_clearance_m": 0.586,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 19",
+      "obstacles": [
+        {
+          "x": 1.96,
+          "y": 0.44,
+          "radius": 0.4
+        },
+        {
+          "x": 1.82,
+          "y": 1.51,
+          "radius": 0.28
+        },
+        {
+          "x": 4.61,
+          "y": 1.12,
+          "radius": 0.36
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 357,
+      "final_position_m": {
+        "x": -0.0,
+        "y": 0.032
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.032,
+      "return_start_distance_m": 12.352,
+      "minimum_clearance_m": 0.612,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 7 - Generated 20",
+      "obstacles": [
+        {
+          "x": 4.2,
+          "y": 2.1,
+          "radius": 0.46
+        },
+        {
+          "x": 4.48,
+          "y": -0.22,
+          "radius": 0.29
+        },
+        {
+          "x": 2.9,
+          "y": 4.24,
+          "radius": 0.44
+        },
+        {
+          "x": 3.32,
+          "y": 3.66,
+          "radius": 0.29
+        },
+        {
+          "x": 1.31,
+          "y": 2.71,
+          "radius": 0.28
+        },
+        {
+          "x": 0.97,
+          "y": 3.09,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 227,
+      "final_position_m": {
+        "x": -0.026,
+        "y": 0.016
+      },
+      "final_heading_rad": -0.433,
+      "final_distance_m": 0.03,
+      "return_start_distance_m": 3.451,
+      "minimum_clearance_m": 0.55,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 01",
+      "obstacles": [
+        {
+          "x": 2.5,
+          "y": 1.51,
+          "radius": 0.32
+        },
+        {
+          "x": 4.33,
+          "y": 4.94,
+          "radius": 0.37
+        },
+        {
+          "x": 4.84,
+          "y": 0.1,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 259,
+      "final_position_m": {
+        "x": 0.001,
+        "y": 0.021
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 5.888,
+      "minimum_clearance_m": 0.615,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 02",
+      "obstacles": [
+        {
+          "x": 0.76,
+          "y": 4.6,
+          "radius": 0.36
+        },
+        {
+          "x": 1.32,
+          "y": 3.51,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.795,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 03",
+      "obstacles": [
+        {
+          "x": 2.58,
+          "y": 4.97,
+          "radius": 0.44
+        },
+        {
+          "x": 2.45,
+          "y": 1.65,
+          "radius": 0.49
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.934,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 04",
+      "obstacles": [
+        {
+          "x": 2.84,
+          "y": -0.31,
+          "radius": 0.49
+        },
+        {
+          "x": 2.28,
+          "y": -0.07,
+          "radius": 0.45
+        },
+        {
+          "x": 1.24,
+          "y": 4.57,
+          "radius": 0.36
+        },
+        {
+          "x": 3.07,
+          "y": 1.06,
+          "radius": 0.37
+        },
+        {
+          "x": 1.5,
+          "y": -0.78,
+          "radius": 0.47
+        },
+        {
+          "x": 1.71,
+          "y": 3.68,
+          "radius": 0.3
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 415,
+      "final_position_m": {
+        "x": 0.024,
+        "y": 0.022
+      },
+      "final_heading_rad": -2.383,
+      "final_distance_m": 0.033,
+      "return_start_distance_m": 13.249,
+      "minimum_clearance_m": 0.613,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 05",
+      "obstacles": [
+        {
+          "x": 4.95,
+          "y": -0.57,
+          "radius": 0.39
+        },
+        {
+          "x": 3.1,
+          "y": 1.33,
+          "radius": 0.34
+        },
+        {
+          "x": 1.33,
+          "y": 2.21,
+          "radius": 0.32
+        },
+        {
+          "x": 4.8,
+          "y": 2.01,
+          "radius": 0.33
+        },
+        {
+          "x": 2.78,
+          "y": 0.59,
+          "radius": 0.46
+        },
+        {
+          "x": 1.38,
+          "y": 3.3,
+          "radius": 0.5
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 302,
+      "final_position_m": {
+        "x": -0.017,
+        "y": 0.01
+      },
+      "final_heading_rad": -0.583,
+      "final_distance_m": 0.02,
+      "return_start_distance_m": 8.511,
+      "minimum_clearance_m": 0.608,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 06",
+      "obstacles": [
+        {
+          "x": 2.81,
+          "y": 2.3,
+          "radius": 0.44
+        },
+        {
+          "x": 1.65,
+          "y": 2.65,
+          "radius": 0.39
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.637,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 07",
+      "obstacles": [
+        {
+          "x": 1.18,
+          "y": 3.02,
+          "radius": 0.41
+        },
+        {
+          "x": 4.28,
+          "y": 0.99,
+          "radius": 0.44
+        },
+        {
+          "x": 4.7,
+          "y": 0.47,
+          "radius": 0.29
+        },
+        {
+          "x": 4.67,
+          "y": 0.04,
+          "radius": 0.36
+        },
+        {
+          "x": 1.39,
+          "y": -0.78,
+          "radius": 0.38
+        },
+        {
+          "x": 3.53,
+          "y": 0.45,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 383,
+      "final_position_m": {
+        "x": 0.039,
+        "y": 0.024
+      },
+      "final_heading_rad": -2.683,
+      "final_distance_m": 0.046,
+      "return_start_distance_m": 14.124,
+      "minimum_clearance_m": 0.59,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 08",
+      "obstacles": [
+        {
+          "x": 4.83,
+          "y": 2.54,
+          "radius": 0.47
+        },
+        {
+          "x": 2.81,
+          "y": 1.25,
+          "radius": 0.31
+        },
+        {
+          "x": 4.47,
+          "y": -0.03,
+          "radius": 0.27
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 227,
+      "final_position_m": {
+        "x": -0.01,
+        "y": -0.041
+      },
+      "final_heading_rad": 1.35,
+      "final_distance_m": 0.043,
+      "return_start_distance_m": 3.718,
+      "minimum_clearance_m": 0.563,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 09",
+      "obstacles": [
+        {
+          "x": 4.03,
+          "y": 1.9,
+          "radius": 0.46
+        },
+        {
+          "x": 0.92,
+          "y": 0.55,
+          "radius": 0.32
+        },
+        {
+          "x": 2.5,
+          "y": 0.02,
+          "radius": 0.27
+        },
+        {
+          "x": 2.15,
+          "y": 4.39,
+          "radius": 0.5
+        },
+        {
+          "x": 3.91,
+          "y": 1.87,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 392,
+      "final_position_m": {
+        "x": 0.023,
+        "y": -0.018
+      },
+      "final_heading_rad": 2.533,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 14.125,
+      "minimum_clearance_m": 0.579,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 10",
+      "obstacles": [
+        {
+          "x": 4.62,
+          "y": 1.87,
+          "radius": 0.49
+        },
+        {
+          "x": 4.57,
+          "y": 1.19,
+          "radius": 0.29
+        },
+        {
+          "x": 2.29,
+          "y": 3.64,
+          "radius": 0.37
+        },
+        {
+          "x": 4.58,
+          "y": 1.86,
+          "radius": 0.28
+        },
+        {
+          "x": 3.23,
+          "y": -0.16,
+          "radius": 0.43
+        },
+        {
+          "x": 2.34,
+          "y": -0.24,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 287,
+      "final_position_m": {
+        "x": -0.039,
+        "y": 0.023
+      },
+      "final_heading_rad": -0.733,
+      "final_distance_m": 0.045,
+      "return_start_distance_m": 7.695,
+      "minimum_clearance_m": 0.593,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 11",
+      "obstacles": [
+        {
+          "x": 3.25,
+          "y": 2.86,
+          "radius": 0.46
+        },
+        {
+          "x": 3.21,
+          "y": 0.54,
+          "radius": 0.35
+        },
+        {
+          "x": 4.82,
+          "y": 4.43,
+          "radius": 0.28
+        },
+        {
+          "x": 1.11,
+          "y": -0.44,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 351,
+      "final_position_m": {
+        "x": 0.002,
+        "y": 0.017
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.017,
+      "return_start_distance_m": 11.919,
+      "minimum_clearance_m": 0.592,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 12",
+      "obstacles": [
+        {
+          "x": 4.08,
+          "y": -0.57,
+          "radius": 0.28
+        },
+        {
+          "x": 1.91,
+          "y": 0.82,
+          "radius": 0.49
+        },
+        {
+          "x": 2.4,
+          "y": 4.33,
+          "radius": 0.41
+        },
+        {
+          "x": 1.48,
+          "y": 4.14,
+          "radius": 0.3
+        },
+        {
+          "x": 3.9,
+          "y": 3.54,
+          "radius": 0.4
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 380,
+      "final_position_m": {
+        "x": 0.013,
+        "y": -0.008
+      },
+      "final_heading_rad": 2.533,
+      "final_distance_m": 0.016,
+      "return_start_distance_m": 13.873,
+      "minimum_clearance_m": 0.61,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 13",
+      "obstacles": [
+        {
+          "x": 4.46,
+          "y": 3.65,
+          "radius": 0.45
+        },
+        {
+          "x": 0.73,
+          "y": 1.78,
+          "radius": 0.27
+        },
+        {
+          "x": 3.98,
+          "y": 0.05,
+          "radius": 0.43
+        },
+        {
+          "x": 1.79,
+          "y": 3.18,
+          "radius": 0.33
+        },
+        {
+          "x": 0.88,
+          "y": 1.33,
+          "radius": 0.33
+        },
+        {
+          "x": 4.57,
+          "y": 0.77,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 415,
+      "final_position_m": {
+        "x": -0.01,
+        "y": 0.028
+      },
+      "final_heading_rad": -1.183,
+      "final_distance_m": 0.03,
+      "return_start_distance_m": 11.299,
+      "minimum_clearance_m": 0.575,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 14",
+      "obstacles": [
+        {
+          "x": 2.81,
+          "y": 2.44,
+          "radius": 0.39
+        },
+        {
+          "x": 0.96,
+          "y": 2.57,
+          "radius": 0.33
+        },
+        {
+          "x": 2.92,
+          "y": 0.75,
+          "radius": 0.41
+        },
+        {
+          "x": 3.96,
+          "y": 0.14,
+          "radius": 0.4
+        },
+        {
+          "x": 2.1,
+          "y": 0.21,
+          "radius": 0.27
+        },
+        {
+          "x": 3.53,
+          "y": 1.52,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 300,
+      "final_position_m": {
+        "x": -0.026,
+        "y": 0.005
+      },
+      "final_heading_rad": -0.283,
+      "final_distance_m": 0.027,
+      "return_start_distance_m": 8.337,
+      "minimum_clearance_m": 0.578,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 15",
+      "obstacles": [
+        {
+          "x": 3.39,
+          "y": 3.85,
+          "radius": 0.49
+        },
+        {
+          "x": 2.87,
+          "y": 4.68,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 3.142,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 16",
+      "obstacles": [
+        {
+          "x": 2.72,
+          "y": 2.08,
+          "radius": 0.47
+        },
+        {
+          "x": 1.0,
+          "y": -0.85,
+          "radius": 0.42
+        },
+        {
+          "x": 0.88,
+          "y": 0.65,
+          "radius": 0.4
+        },
+        {
+          "x": 2.44,
+          "y": 1.56,
+          "radius": 0.45
+        },
+        {
+          "x": 2.42,
+          "y": 0.96,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 362,
+      "final_position_m": {
+        "x": -0.005,
+        "y": -0.014
+      },
+      "final_heading_rad": 1.183,
+      "final_distance_m": 0.015,
+      "return_start_distance_m": 12.635,
+      "minimum_clearance_m": 0.574,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 17",
+      "obstacles": [
+        {
+          "x": 0.86,
+          "y": 0.04,
+          "radius": 0.34
+        },
+        {
+          "x": 3.3,
+          "y": 0.3,
+          "radius": 0.36
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 445,
+      "final_position_m": {
+        "x": -0.022,
+        "y": -0.003
+      },
+      "final_heading_rad": 0.317,
+      "final_distance_m": 0.022,
+      "return_start_distance_m": 13.625,
+      "minimum_clearance_m": 0.395,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 18",
+      "obstacles": [
+        {
+          "x": 3.57,
+          "y": 4.15,
+          "radius": 0.42
+        },
+        {
+          "x": 3.64,
+          "y": 0.47,
+          "radius": 0.48
+        },
+        {
+          "x": 2.36,
+          "y": 2.69,
+          "radius": 0.46
+        },
+        {
+          "x": 4.84,
+          "y": 4.94,
+          "radius": 0.25
+        },
+        {
+          "x": 2.04,
+          "y": 0.87,
+          "radius": 0.35
+        },
+        {
+          "x": 1.33,
+          "y": 2.32,
+          "radius": 0.27
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 385,
+      "final_position_m": {
+        "x": 0.03,
+        "y": -0.01
+      },
+      "final_heading_rad": 2.833,
+      "final_distance_m": 0.032,
+      "return_start_distance_m": 14.207,
+      "minimum_clearance_m": 0.635,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 19",
+      "obstacles": [
+        {
+          "x": 3.37,
+          "y": 1.25,
+          "radius": 0.44
+        },
+        {
+          "x": 4.93,
+          "y": 4.95,
+          "radius": 0.29
+        },
+        {
+          "x": 2.56,
+          "y": 3.07,
+          "radius": 0.34
+        },
+        {
+          "x": 3.2,
+          "y": 0.13,
+          "radius": 0.27
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 290,
+      "final_position_m": {
+        "x": 0.004,
+        "y": 0.041
+      },
+      "final_heading_rad": -1.483,
+      "final_distance_m": 0.041,
+      "return_start_distance_m": 7.835,
+      "minimum_clearance_m": 0.598,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 21 - Generated 20",
+      "obstacles": [
+        {
+          "x": 2.09,
+          "y": 0.53,
+          "radius": 0.46
+        },
+        {
+          "x": 1.36,
+          "y": 3.09,
+          "radius": 0.3
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 354,
+      "final_position_m": {
+        "x": -0.004,
+        "y": 0.046
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.047,
+      "return_start_distance_m": 12.159,
+      "minimum_clearance_m": 0.588,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 01",
+      "obstacles": [
+        {
+          "x": 0.81,
+          "y": 0.65,
+          "radius": 0.31
+        },
+        {
+          "x": 3.87,
+          "y": 3.06,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 384,
+      "final_position_m": {
+        "x": 0.017,
+        "y": -0.017
+      },
+      "final_heading_rad": 2.55,
+      "final_distance_m": 0.024,
+      "return_start_distance_m": 14.225,
+      "minimum_clearance_m": 0.564,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 02",
+      "obstacles": [
+        {
+          "x": 3.24,
+          "y": -0.81,
+          "radius": 0.27
+        },
+        {
+          "x": 1.7,
+          "y": 2.61,
+          "radius": 0.39
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 382,
+      "final_position_m": {
+        "x": 0.044,
+        "y": 0.011
+      },
+      "final_heading_rad": -2.683,
+      "final_distance_m": 0.045,
+      "return_start_distance_m": 14.112,
+      "minimum_clearance_m": 0.618,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 03",
+      "obstacles": [
+        {
+          "x": 2.5,
+          "y": 1.7,
+          "radius": 0.32
+        },
+        {
+          "x": 4.44,
+          "y": 3.55,
+          "radius": 0.29
+        },
+        {
+          "x": 2.52,
+          "y": 0.67,
+          "radius": 0.3
+        },
+        {
+          "x": 3.98,
+          "y": -0.39,
+          "radius": 0.34
+        },
+        {
+          "x": 2.24,
+          "y": 1.06,
+          "radius": 0.32
+        },
+        {
+          "x": 0.89,
+          "y": 1.76,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 365,
+      "final_position_m": {
+        "x": 0.034,
+        "y": -0.03
+      },
+      "final_heading_rad": 2.383,
+      "final_distance_m": 0.045,
+      "return_start_distance_m": 13.061,
+      "minimum_clearance_m": 0.596,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 04",
+      "obstacles": [
+        {
+          "x": 1.04,
+          "y": 0.76,
+          "radius": 0.41
+        },
+        {
+          "x": 4.51,
+          "y": 1.17,
+          "radius": 0.3
+        },
+        {
+          "x": 1.0,
+          "y": 2.97,
+          "radius": 0.44
+        },
+        {
+          "x": 4.94,
+          "y": 4.13,
+          "radius": 0.47
+        },
+        {
+          "x": 2.33,
+          "y": 1.72,
+          "radius": 0.46
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 382,
+      "final_position_m": {
+        "x": 0.035,
+        "y": -0.021
+      },
+      "final_heading_rad": 2.383,
+      "final_distance_m": 0.041,
+      "return_start_distance_m": 14.098,
+      "minimum_clearance_m": 0.667,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 05",
+      "obstacles": [
+        {
+          "x": 2.29,
+          "y": 0.26,
+          "radius": 0.32
+        },
+        {
+          "x": 4.73,
+          "y": 2.89,
+          "radius": 0.4
+        },
+        {
+          "x": 1.44,
+          "y": 3.37,
+          "radius": 0.29
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 316,
+      "final_position_m": {
+        "x": -0.028,
+        "y": 0.026
+      },
+      "final_heading_rad": -0.883,
+      "final_distance_m": 0.038,
+      "return_start_distance_m": 9.618,
+      "minimum_clearance_m": 0.566,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 06",
+      "obstacles": [
+        {
+          "x": 1.86,
+          "y": 4.55,
+          "radius": 0.42
+        },
+        {
+          "x": 1.64,
+          "y": 0.95,
+          "radius": 0.44
+        },
+        {
+          "x": 0.94,
+          "y": 3.93,
+          "radius": 0.45
+        },
+        {
+          "x": 2.43,
+          "y": -0.6,
+          "radius": 0.48
+        },
+        {
+          "x": 3.14,
+          "y": 3.31,
+          "radius": 0.3
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 332,
+      "final_position_m": {
+        "x": 0.024,
+        "y": -0.042
+      },
+      "final_heading_rad": 1.933,
+      "final_distance_m": 0.048,
+      "return_start_distance_m": 10.659,
+      "minimum_clearance_m": 0.609,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 07",
+      "obstacles": [
+        {
+          "x": 2.4,
+          "y": 4.49,
+          "radius": 0.36
+        },
+        {
+          "x": 1.84,
+          "y": 0.48,
+          "radius": 0.39
+        },
+        {
+          "x": 1.83,
+          "y": 2.51,
+          "radius": 0.47
+        },
+        {
+          "x": 2.42,
+          "y": 0.32,
+          "radius": 0.5
+        },
+        {
+          "x": 2.89,
+          "y": -0.45,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 358,
+      "final_position_m": {
+        "x": -0.0,
+        "y": 0.035
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.035,
+      "return_start_distance_m": 12.389,
+      "minimum_clearance_m": 0.598,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 08",
+      "obstacles": [
+        {
+          "x": 1.36,
+          "y": -0.04,
+          "radius": 0.42
+        },
+        {
+          "x": 3.26,
+          "y": 1.31,
+          "radius": 0.4
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 375,
+      "final_position_m": {
+        "x": 0.015,
+        "y": 0.042
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.045,
+      "return_start_distance_m": 13.57,
+      "minimum_clearance_m": 0.601,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 09",
+      "obstacles": [
+        {
+          "x": 2.98,
+          "y": 4.83,
+          "radius": 0.47
+        },
+        {
+          "x": 0.75,
+          "y": 3.32,
+          "radius": 0.42
+        },
+        {
+          "x": 3.01,
+          "y": 0.6,
+          "radius": 0.41
+        },
+        {
+          "x": 1.18,
+          "y": 1.61,
+          "radius": 0.36
+        },
+        {
+          "x": 4.8,
+          "y": 4.26,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 371,
+      "final_position_m": {
+        "x": 0.031,
+        "y": -0.033
+      },
+      "final_heading_rad": 2.233,
+      "final_distance_m": 0.046,
+      "return_start_distance_m": 13.36,
+      "minimum_clearance_m": 0.634,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 10",
+      "obstacles": [
+        {
+          "x": 3.98,
+          "y": 2.05,
+          "radius": 0.28
+        },
+        {
+          "x": 3.39,
+          "y": 4.05,
+          "radius": 0.38
+        },
+        {
+          "x": 1.56,
+          "y": 1.24,
+          "radius": 0.29
+        },
+        {
+          "x": 4.8,
+          "y": 4.53,
+          "radius": 0.48
+        },
+        {
+          "x": 3.28,
+          "y": 1.93,
+          "radius": 0.28
+        },
+        {
+          "x": 2.26,
+          "y": 4.91,
+          "radius": 0.45
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.717,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 11",
+      "obstacles": [
+        {
+          "x": 0.95,
+          "y": 4.27,
+          "radius": 0.49
+        },
+        {
+          "x": 1.07,
+          "y": 1.92,
+          "radius": 0.27
+        },
+        {
+          "x": 3.97,
+          "y": 3.6,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.413,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 12",
+      "obstacles": [
+        {
+          "x": 4.77,
+          "y": -0.01,
+          "radius": 0.38
+        },
+        {
+          "x": 3.31,
+          "y": 4.79,
+          "radius": 0.48
+        },
+        {
+          "x": 3.95,
+          "y": 3.14,
+          "radius": 0.43
+        },
+        {
+          "x": 2.42,
+          "y": 3.03,
+          "radius": 0.34
+        },
+        {
+          "x": 4.57,
+          "y": 1.71,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 203,
+      "final_position_m": {
+        "x": -0.042,
+        "y": 0.009
+      },
+      "final_heading_rad": -0.133,
+      "final_distance_m": 0.043,
+      "return_start_distance_m": 1.966,
+      "minimum_clearance_m": 0.575,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 13",
+      "obstacles": [
+        {
+          "x": 2.15,
+          "y": 2.53,
+          "radius": 0.31
+        },
+        {
+          "x": 1.65,
+          "y": -0.57,
+          "radius": 0.41
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 315,
+      "final_position_m": {
+        "x": -0.023,
+        "y": 0.027
+      },
+      "final_heading_rad": -0.733,
+      "final_distance_m": 0.035,
+      "return_start_distance_m": 9.496,
+      "minimum_clearance_m": 0.594,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 14",
+      "obstacles": [
+        {
+          "x": 0.99,
+          "y": -0.81,
+          "radius": 0.33
+        },
+        {
+          "x": 2.91,
+          "y": 0.67,
+          "radius": 0.37
+        },
+        {
+          "x": 3.02,
+          "y": 3.34,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 319,
+      "final_position_m": {
+        "x": -0.003,
+        "y": 0.016
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.016,
+      "return_start_distance_m": 9.757,
+      "minimum_clearance_m": 0.579,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 15",
+      "obstacles": [
+        {
+          "x": 2.73,
+          "y": 3.71,
+          "radius": 0.45
+        },
+        {
+          "x": 1.52,
+          "y": -0.42,
+          "radius": 0.36
+        },
+        {
+          "x": 2.52,
+          "y": 1.8,
+          "radius": 0.43
+        },
+        {
+          "x": 3.6,
+          "y": 4.9,
+          "radius": 0.27
+        },
+        {
+          "x": 2.43,
+          "y": 1.04,
+          "radius": 0.47
+        },
+        {
+          "x": 1.77,
+          "y": 0.14,
+          "radius": 0.36
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 336,
+      "final_position_m": {
+        "x": -0.008,
+        "y": 0.042
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.043,
+      "return_start_distance_m": 10.973,
+      "minimum_clearance_m": 0.623,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 16",
+      "obstacles": [
+        {
+          "x": 1.49,
+          "y": 1.78,
+          "radius": 0.47
+        },
+        {
+          "x": 1.02,
+          "y": 3.85,
+          "radius": 0.46
+        },
+        {
+          "x": 1.12,
+          "y": 2.91,
+          "radius": 0.39
+        },
+        {
+          "x": 0.76,
+          "y": -0.44,
+          "radius": 0.44
+        },
+        {
+          "x": 1.72,
+          "y": 1.44,
+          "radius": 0.37
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 357,
+      "final_position_m": {
+        "x": -0.013,
+        "y": 0.035
+      },
+      "final_heading_rad": -1.033,
+      "final_distance_m": 0.037,
+      "return_start_distance_m": 12.323,
+      "minimum_clearance_m": 0.318,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 17",
+      "obstacles": [
+        {
+          "x": 4.58,
+          "y": -0.01,
+          "radius": 0.25
+        },
+        {
+          "x": 2.38,
+          "y": 4.56,
+          "radius": 0.45
+        },
+        {
+          "x": 1.93,
+          "y": 3.18,
+          "radius": 0.43
+        },
+        {
+          "x": 4.07,
+          "y": 2.97,
+          "radius": 0.37
+        },
+        {
+          "x": 1.52,
+          "y": 0.31,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 365,
+      "final_position_m": {
+        "x": 0.002,
+        "y": 0.045
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.045,
+      "return_start_distance_m": 12.891,
+      "minimum_clearance_m": 0.562,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 18",
+      "obstacles": [
+        {
+          "x": 0.96,
+          "y": 0.88,
+          "radius": 0.26
+        },
+        {
+          "x": 2.75,
+          "y": 4.52,
+          "radius": 0.38
+        },
+        {
+          "x": 0.94,
+          "y": 2.05,
+          "radius": 0.46
+        },
+        {
+          "x": 0.99,
+          "y": -0.59,
+          "radius": 0.47
+        },
+        {
+          "x": 2.44,
+          "y": 4.65,
+          "radius": 0.39
+        },
+        {
+          "x": 3.19,
+          "y": -0.76,
+          "radius": 0.27
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 356,
+      "final_position_m": {
+        "x": -0.008,
+        "y": 0.023
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.024,
+      "return_start_distance_m": 12.183,
+      "minimum_clearance_m": 0.562,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 19",
+      "obstacles": [
+        {
+          "x": 3.13,
+          "y": 0.9,
+          "radius": 0.32
+        },
+        {
+          "x": 3.58,
+          "y": 0.89,
+          "radius": 0.32
+        },
+        {
+          "x": 1.26,
+          "y": 2.87,
+          "radius": 0.36
+        },
+        {
+          "x": 4.69,
+          "y": 4.61,
+          "radius": 0.25
+        },
+        {
+          "x": 3.37,
+          "y": 2.38,
+          "radius": 0.27
+        },
+        {
+          "x": 3.01,
+          "y": 2.04,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 379,
+      "final_position_m": {
+        "x": 0.028,
+        "y": -0.013
+      },
+      "final_heading_rad": 2.533,
+      "final_distance_m": 0.031,
+      "return_start_distance_m": 13.86,
+      "minimum_clearance_m": 0.659,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 42 - Generated 20",
+      "obstacles": [
+        {
+          "x": 4.49,
+          "y": 4.28,
+          "radius": 0.34
+        },
+        {
+          "x": 1.38,
+          "y": 4.0,
+          "radius": 0.43
+        },
+        {
+          "x": 3.33,
+          "y": 4.92,
+          "radius": 0.41
+        },
+        {
+          "x": 0.73,
+          "y": 3.9,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 3.335,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 01",
+      "obstacles": [
+        {
+          "x": 1.23,
+          "y": 1.88,
+          "radius": 0.3
+        },
+        {
+          "x": 1.98,
+          "y": -0.56,
+          "radius": 0.35
+        },
+        {
+          "x": 2.85,
+          "y": 1.71,
+          "radius": 0.26
+        },
+        {
+          "x": 2.47,
+          "y": 4.13,
+          "radius": 0.35
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": false,
+      "arrival_step": null,
+      "final_position_m": {
+        "x": -0.109,
+        "y": 0.969
+      },
+      "final_heading_rad": -1.5,
+      "final_distance_m": 0.975,
+      "return_start_distance_m": 10.845,
+      "minimum_clearance_m": 0.476,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 02",
+      "obstacles": [
+        {
+          "x": 2.52,
+          "y": 2.32,
+          "radius": 0.36
+        },
+        {
+          "x": 4.38,
+          "y": 4.62,
+          "radius": 0.39
+        },
+        {
+          "x": 1.57,
+          "y": 4.25,
+          "radius": 0.46
+        },
+        {
+          "x": 2.7,
+          "y": 3.79,
+          "radius": 0.47
+        },
+        {
+          "x": 4.79,
+          "y": 0.37,
+          "radius": 0.3
+        },
+        {
+          "x": 4.15,
+          "y": 0.63,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 359,
+      "final_position_m": {
+        "x": 0.032,
+        "y": -0.017
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 12.469,
+      "minimum_clearance_m": 0.6,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 03",
+      "obstacles": [
+        {
+          "x": 4.69,
+          "y": 4.12,
+          "radius": 0.38
+        },
+        {
+          "x": 4.6,
+          "y": 1.58,
+          "radius": 0.27
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.103,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 04",
+      "obstacles": [
+        {
+          "x": 3.5,
+          "y": 0.15,
+          "radius": 0.39
+        },
+        {
+          "x": 2.59,
+          "y": 3.61,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 262,
+      "final_position_m": {
+        "x": -0.028,
+        "y": 0.025
+      },
+      "final_heading_rad": -0.583,
+      "final_distance_m": 0.038,
+      "return_start_distance_m": 5.904,
+      "minimum_clearance_m": 0.577,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 05",
+      "obstacles": [
+        {
+          "x": 1.74,
+          "y": 4.15,
+          "radius": 0.3
+        },
+        {
+          "x": 2.46,
+          "y": 3.82,
+          "radius": 0.35
+        },
+        {
+          "x": 0.95,
+          "y": 3.31,
+          "radius": 0.27
+        },
+        {
+          "x": 2.47,
+          "y": 1.06,
+          "radius": 0.37
+        },
+        {
+          "x": 1.29,
+          "y": 4.54,
+          "radius": 0.45
+        },
+        {
+          "x": 3.06,
+          "y": 0.8,
+          "radius": 0.35
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 380,
+      "final_position_m": {
+        "x": 0.027,
+        "y": -0.011
+      },
+      "final_heading_rad": 2.533,
+      "final_distance_m": 0.03,
+      "return_start_distance_m": 13.922,
+      "minimum_clearance_m": 0.67,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 06",
+      "obstacles": [
+        {
+          "x": 3.76,
+          "y": -0.51,
+          "radius": 0.26
+        },
+        {
+          "x": 4.0,
+          "y": -0.37,
+          "radius": 0.41
+        },
+        {
+          "x": 1.83,
+          "y": 1.8,
+          "radius": 0.5
+        },
+        {
+          "x": 3.46,
+          "y": 0.94,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 261,
+      "final_position_m": {
+        "x": -0.015,
+        "y": -0.011
+      },
+      "final_heading_rad": 0.3,
+      "final_distance_m": 0.018,
+      "return_start_distance_m": 5.642,
+      "minimum_clearance_m": 0.595,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 07",
+      "obstacles": [
+        {
+          "x": 3.81,
+          "y": 0.19,
+          "radius": 0.42
+        },
+        {
+          "x": 4.05,
+          "y": 1.49,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 336,
+      "final_position_m": {
+        "x": 0.002,
+        "y": 0.018
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.018,
+      "return_start_distance_m": 10.947,
+      "minimum_clearance_m": 0.582,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 08",
+      "obstacles": [
+        {
+          "x": 4.34,
+          "y": 1.42,
+          "radius": 0.41
+        },
+        {
+          "x": 3.6,
+          "y": -0.9,
+          "radius": 0.47
+        },
+        {
+          "x": 3.96,
+          "y": 2.17,
+          "radius": 0.49
+        },
+        {
+          "x": 3.54,
+          "y": 5.0,
+          "radius": 0.35
+        },
+        {
+          "x": 4.17,
+          "y": 3.92,
+          "radius": 0.27
+        },
+        {
+          "x": 3.32,
+          "y": 0.53,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 311,
+      "final_position_m": {
+        "x": -0.007,
+        "y": -0.035
+      },
+      "final_heading_rad": 1.333,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 9.229,
+      "minimum_clearance_m": 0.602,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 09",
+      "obstacles": [
+        {
+          "x": 1.99,
+          "y": 1.85,
+          "radius": 0.28
+        },
+        {
+          "x": 4.54,
+          "y": 1.82,
+          "radius": 0.29
+        },
+        {
+          "x": 2.83,
+          "y": 1.18,
+          "radius": 0.41
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 409,
+      "final_position_m": {
+        "x": 0.023,
+        "y": 0.001
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.023,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.625,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 10",
+      "obstacles": [
+        {
+          "x": 1.86,
+          "y": 3.04,
+          "radius": 0.27
+        },
+        {
+          "x": 2.9,
+          "y": 2.23,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.578,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 11",
+      "obstacles": [
+        {
+          "x": 2.93,
+          "y": 2.76,
+          "radius": 0.33
+        },
+        {
+          "x": 2.97,
+          "y": 1.32,
+          "radius": 0.36
+        },
+        {
+          "x": 2.47,
+          "y": -1.0,
+          "radius": 0.3
+        },
+        {
+          "x": 3.17,
+          "y": -0.27,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 291,
+      "final_position_m": {
+        "x": -0.013,
+        "y": 0.021
+      },
+      "final_heading_rad": -0.883,
+      "final_distance_m": 0.025,
+      "return_start_distance_m": 7.811,
+      "minimum_clearance_m": 0.602,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 12",
+      "obstacles": [
+        {
+          "x": 2.78,
+          "y": 3.64,
+          "radius": 0.33
+        },
+        {
+          "x": 0.7,
+          "y": 1.66,
+          "radius": 0.44
+        },
+        {
+          "x": 2.78,
+          "y": 1.16,
+          "radius": 0.46
+        },
+        {
+          "x": 2.28,
+          "y": 4.6,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 387,
+      "final_position_m": {
+        "x": 0.026,
+        "y": -0.003
+      },
+      "final_heading_rad": 2.983,
+      "final_distance_m": 0.026,
+      "return_start_distance_m": 14.338,
+      "minimum_clearance_m": 0.67,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 13",
+      "obstacles": [
+        {
+          "x": 3.72,
+          "y": 3.83,
+          "radius": 0.36
+        },
+        {
+          "x": 3.94,
+          "y": 2.49,
+          "radius": 0.29
+        },
+        {
+          "x": 1.35,
+          "y": -0.84,
+          "radius": 0.25
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 387,
+      "final_position_m": {
+        "x": 0.028,
+        "y": 0.007
+      },
+      "final_heading_rad": -2.983,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 14.391,
+      "minimum_clearance_m": 0.595,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 14",
+      "obstacles": [
+        {
+          "x": 3.3,
+          "y": 2.19,
+          "radius": 0.31
+        },
+        {
+          "x": 1.1,
+          "y": 1.94,
+          "radius": 0.37
+        },
+        {
+          "x": 2.3,
+          "y": 1.98,
+          "radius": 0.47
+        },
+        {
+          "x": 4.41,
+          "y": 4.37,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.283,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 15",
+      "obstacles": [
+        {
+          "x": 3.23,
+          "y": 0.52,
+          "radius": 0.3
+        },
+        {
+          "x": 1.9,
+          "y": 3.19,
+          "radius": 0.38
+        },
+        {
+          "x": 1.69,
+          "y": 4.05,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 375,
+      "final_position_m": {
+        "x": 0.031,
+        "y": -0.026
+      },
+      "final_heading_rad": 2.383,
+      "final_distance_m": 0.04,
+      "return_start_distance_m": 13.599,
+      "minimum_clearance_m": 0.594,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 16",
+      "obstacles": [
+        {
+          "x": 3.89,
+          "y": 1.98,
+          "radius": 0.48
+        },
+        {
+          "x": 1.54,
+          "y": 2.26,
+          "radius": 0.25
+        },
+        {
+          "x": 1.75,
+          "y": 0.3,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 364,
+      "final_position_m": {
+        "x": 0.002,
+        "y": 0.031
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.032,
+      "return_start_distance_m": 12.738,
+      "minimum_clearance_m": 0.608,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 17",
+      "obstacles": [
+        {
+          "x": 1.75,
+          "y": 0.05,
+          "radius": 0.32
+        },
+        {
+          "x": 2.56,
+          "y": -0.05,
+          "radius": 0.43
+        },
+        {
+          "x": 2.88,
+          "y": 1.06,
+          "radius": 0.49
+        },
+        {
+          "x": 3.05,
+          "y": 3.22,
+          "radius": 0.33
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 370,
+      "final_position_m": {
+        "x": 0.012,
+        "y": 0.035
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.037,
+      "return_start_distance_m": 13.196,
+      "minimum_clearance_m": 0.574,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 18",
+      "obstacles": [
+        {
+          "x": 4.68,
+          "y": 3.42,
+          "radius": 0.49
+        },
+        {
+          "x": 1.72,
+          "y": 2.47,
+          "radius": 0.3
+        },
+        {
+          "x": 2.63,
+          "y": 2.95,
+          "radius": 0.36
+        },
+        {
+          "x": 1.42,
+          "y": -0.29,
+          "radius": 0.31
+        },
+        {
+          "x": 3.05,
+          "y": -0.84,
+          "radius": 0.27
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 332,
+      "final_position_m": {
+        "x": -0.01,
+        "y": 0.019
+      },
+      "final_heading_rad": -1.033,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 10.566,
+      "minimum_clearance_m": 0.599,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 19",
+      "obstacles": [
+        {
+          "x": 1.44,
+          "y": 0.84,
+          "radius": 0.44
+        },
+        {
+          "x": 3.15,
+          "y": 0.85,
+          "radius": 0.27
+        },
+        {
+          "x": 2.01,
+          "y": 2.89,
+          "radius": 0.4
+        },
+        {
+          "x": 4.68,
+          "y": 2.58,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 383,
+      "final_position_m": {
+        "x": 0.039,
+        "y": -0.024
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.046,
+      "return_start_distance_m": 14.124,
+      "minimum_clearance_m": 0.608,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 73 - Generated 20",
+      "obstacles": [
+        {
+          "x": 3.23,
+          "y": -0.56,
+          "radius": 0.46
+        },
+        {
+          "x": 4.35,
+          "y": 4.42,
+          "radius": 0.29
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 439,
+      "final_position_m": {
+        "x": 0.015,
+        "y": 0.009
+      },
+      "final_heading_rad": -2.683,
+      "final_distance_m": 0.018,
+      "return_start_distance_m": 13.305,
+      "minimum_clearance_m": 0.575,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 01",
+      "obstacles": [
+        {
+          "x": 4.34,
+          "y": 4.45,
+          "radius": 0.38
+        },
+        {
+          "x": 2.24,
+          "y": -0.71,
+          "radius": 0.38
+        },
+        {
+          "x": 3.29,
+          "y": 4.51,
+          "radius": 0.37
+        },
+        {
+          "x": 4.07,
+          "y": 0.97,
+          "radius": 0.36
+        },
+        {
+          "x": 1.8,
+          "y": -0.03,
+          "radius": 0.36
+        },
+        {
+          "x": 3.01,
+          "y": 0.15,
+          "radius": 0.45
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 370,
+      "final_position_m": {
+        "x": 0.012,
+        "y": 0.035
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.037,
+      "return_start_distance_m": 13.196,
+      "minimum_clearance_m": 0.6,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 02",
+      "obstacles": [
+        {
+          "x": 3.44,
+          "y": 1.42,
+          "radius": 0.3
+        },
+        {
+          "x": 2.55,
+          "y": 0.83,
+          "radius": 0.28
+        },
+        {
+          "x": 4.24,
+          "y": 3.08,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 384,
+      "final_position_m": {
+        "x": 0.023,
+        "y": -0.007
+      },
+      "final_heading_rad": 2.833,
+      "final_distance_m": 0.024,
+      "return_start_distance_m": 14.16,
+      "minimum_clearance_m": 0.63,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 03",
+      "obstacles": [
+        {
+          "x": 2.4,
+          "y": 1.28,
+          "radius": 0.36
+        },
+        {
+          "x": 2.44,
+          "y": 3.01,
+          "radius": 0.25
+        },
+        {
+          "x": 2.7,
+          "y": 2.21,
+          "radius": 0.34
+        },
+        {
+          "x": 0.79,
+          "y": 3.23,
+          "radius": 0.25
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.694,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 04",
+      "obstacles": [
+        {
+          "x": 4.22,
+          "y": 4.91,
+          "radius": 0.36
+        },
+        {
+          "x": 1.89,
+          "y": 3.58,
+          "radius": 0.35
+        },
+        {
+          "x": 4.96,
+          "y": 3.97,
+          "radius": 0.47
+        },
+        {
+          "x": 3.15,
+          "y": -0.0,
+          "radius": 0.46
+        },
+        {
+          "x": 2.89,
+          "y": 4.21,
+          "radius": 0.3
+        },
+        {
+          "x": 2.98,
+          "y": 4.24,
+          "radius": 0.49
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 352,
+      "final_position_m": {
+        "x": 0.02,
+        "y": 0.011
+      },
+      "final_heading_rad": -2.7,
+      "final_distance_m": 0.023,
+      "return_start_distance_m": 8.009,
+      "minimum_clearance_m": 0.617,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 05",
+      "obstacles": [
+        {
+          "x": 0.84,
+          "y": 1.07,
+          "radius": 0.49
+        },
+        {
+          "x": 4.47,
+          "y": 4.03,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 385,
+      "final_position_m": {
+        "x": 0.039,
+        "y": -0.01
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.04,
+      "return_start_distance_m": 14.305,
+      "minimum_clearance_m": 0.632,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 06",
+      "obstacles": [
+        {
+          "x": 4.03,
+          "y": 3.86,
+          "radius": 0.45
+        },
+        {
+          "x": 1.3,
+          "y": 0.07,
+          "radius": 0.45
+        },
+        {
+          "x": 3.87,
+          "y": 4.35,
+          "radius": 0.36
+        },
+        {
+          "x": 4.53,
+          "y": -0.16,
+          "radius": 0.49
+        },
+        {
+          "x": 4.5,
+          "y": 1.03,
+          "radius": 0.27
+        },
+        {
+          "x": 3.06,
+          "y": 3.14,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 374,
+      "final_position_m": {
+        "x": 0.008,
+        "y": 0.03
+      },
+      "final_heading_rad": -1.783,
+      "final_distance_m": 0.031,
+      "return_start_distance_m": 13.456,
+      "minimum_clearance_m": 0.615,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 07",
+      "obstacles": [
+        {
+          "x": 1.53,
+          "y": 3.07,
+          "radius": 0.33
+        },
+        {
+          "x": 1.9,
+          "y": -0.08,
+          "radius": 0.37
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 316,
+      "final_position_m": {
+        "x": -0.034,
+        "y": 0.023
+      },
+      "final_heading_rad": -0.583,
+      "final_distance_m": 0.042,
+      "return_start_distance_m": 9.577,
+      "minimum_clearance_m": 0.564,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 08",
+      "obstacles": [
+        {
+          "x": 1.18,
+          "y": 4.89,
+          "radius": 0.48
+        },
+        {
+          "x": 2.07,
+          "y": -0.43,
+          "radius": 0.41
+        },
+        {
+          "x": 4.52,
+          "y": -0.93,
+          "radius": 0.41
+        },
+        {
+          "x": 4.38,
+          "y": 1.75,
+          "radius": 0.39
+        },
+        {
+          "x": 4.16,
+          "y": 0.43,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 373,
+      "final_position_m": {
+        "x": 0.03,
+        "y": 0.038
+      },
+      "final_heading_rad": -2.233,
+      "final_distance_m": 0.048,
+      "return_start_distance_m": 13.451,
+      "minimum_clearance_m": 0.612,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 09",
+      "obstacles": [
+        {
+          "x": 3.08,
+          "y": 2.21,
+          "radius": 0.33
+        },
+        {
+          "x": 4.73,
+          "y": 0.73,
+          "radius": 0.42
+        },
+        {
+          "x": 4.54,
+          "y": 1.4,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 372,
+      "final_position_m": {
+        "x": 0.021,
+        "y": -0.01
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.024,
+      "return_start_distance_m": 13.359,
+      "minimum_clearance_m": 0.628,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 10",
+      "obstacles": [
+        {
+          "x": 2.92,
+          "y": 0.3,
+          "radius": 0.42
+        },
+        {
+          "x": 1.33,
+          "y": -0.27,
+          "radius": 0.26
+        },
+        {
+          "x": 4.4,
+          "y": 0.21,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 378,
+      "final_position_m": {
+        "x": 0.019,
+        "y": 0.03
+      },
+      "final_heading_rad": -2.233,
+      "final_distance_m": 0.035,
+      "return_start_distance_m": 13.728,
+      "minimum_clearance_m": 0.561,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 11",
+      "obstacles": [
+        {
+          "x": 2.91,
+          "y": 2.76,
+          "radius": 0.3
+        },
+        {
+          "x": 2.67,
+          "y": 2.34,
+          "radius": 0.33
+        },
+        {
+          "x": 1.99,
+          "y": 0.53,
+          "radius": 0.47
+        },
+        {
+          "x": 1.58,
+          "y": 4.84,
+          "radius": 0.44
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 354,
+      "final_position_m": {
+        "x": -0.011,
+        "y": 0.044
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.045,
+      "return_start_distance_m": 12.121,
+      "minimum_clearance_m": 0.619,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 12",
+      "obstacles": [
+        {
+          "x": 0.91,
+          "y": 4.96,
+          "radius": 0.43
+        },
+        {
+          "x": 2.59,
+          "y": 3.0,
+          "radius": 0.32
+        },
+        {
+          "x": 3.75,
+          "y": 4.7,
+          "radius": 0.44
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.456,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 13",
+      "obstacles": [
+        {
+          "x": 4.89,
+          "y": 2.71,
+          "radius": 0.46
+        },
+        {
+          "x": 0.76,
+          "y": 4.56,
+          "radius": 0.42
+        },
+        {
+          "x": 4.01,
+          "y": 4.73,
+          "radius": 0.37
+        },
+        {
+          "x": 4.16,
+          "y": 2.81,
+          "radius": 0.26
+        },
+        {
+          "x": 4.44,
+          "y": 2.63,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.045,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 14",
+      "obstacles": [
+        {
+          "x": 4.9,
+          "y": 3.79,
+          "radius": 0.33
+        },
+        {
+          "x": 3.84,
+          "y": -0.12,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 349,
+      "final_position_m": {
+        "x": 0.022,
+        "y": 0.039
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.045,
+      "return_start_distance_m": 11.911,
+      "minimum_clearance_m": 0.589,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 15",
+      "obstacles": [
+        {
+          "x": 1.17,
+          "y": -0.96,
+          "radius": 0.34
+        },
+        {
+          "x": 3.47,
+          "y": 2.19,
+          "radius": 0.5
+        },
+        {
+          "x": 3.85,
+          "y": 2.91,
+          "radius": 0.29
+        },
+        {
+          "x": 4.64,
+          "y": 3.69,
+          "radius": 0.43
+        },
+        {
+          "x": 1.53,
+          "y": -0.18,
+          "radius": 0.5
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 374,
+      "final_position_m": {
+        "x": 0.012,
+        "y": 0.041
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.043,
+      "return_start_distance_m": 13.494,
+      "minimum_clearance_m": 0.62,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 16",
+      "obstacles": [
+        {
+          "x": 4.75,
+          "y": 3.77,
+          "radius": 0.42
+        },
+        {
+          "x": 4.49,
+          "y": -0.37,
+          "radius": 0.38
+        },
+        {
+          "x": 0.75,
+          "y": 4.41,
+          "radius": 0.38
+        },
+        {
+          "x": 1.25,
+          "y": 2.96,
+          "radius": 0.48
+        },
+        {
+          "x": 1.17,
+          "y": 4.93,
+          "radius": 0.36
+        },
+        {
+          "x": 3.15,
+          "y": 4.24,
+          "radius": 0.4
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 354,
+      "final_position_m": {
+        "x": 0.017,
+        "y": 0.008
+      },
+      "final_heading_rad": -2.85,
+      "final_distance_m": 0.019,
+      "return_start_distance_m": 12.133,
+      "minimum_clearance_m": 0.601,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 17",
+      "obstacles": [
+        {
+          "x": 4.97,
+          "y": 1.42,
+          "radius": 0.28
+        },
+        {
+          "x": 0.96,
+          "y": 0.73,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 390,
+      "final_position_m": {
+        "x": 0.034,
+        "y": -0.017
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.038,
+      "return_start_distance_m": 14.208,
+      "minimum_clearance_m": 0.588,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 18",
+      "obstacles": [
+        {
+          "x": 1.98,
+          "y": 0.41,
+          "radius": 0.43
+        },
+        {
+          "x": 2.37,
+          "y": 2.35,
+          "radius": 0.29
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 357,
+      "final_position_m": {
+        "x": -0.0,
+        "y": 0.032
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.032,
+      "return_start_distance_m": 12.352,
+      "minimum_clearance_m": 0.595,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 19",
+      "obstacles": [
+        {
+          "x": 3.7,
+          "y": 0.44,
+          "radius": 0.35
+        },
+        {
+          "x": 1.74,
+          "y": 0.46,
+          "radius": 0.35
+        },
+        {
+          "x": 3.27,
+          "y": 1.97,
+          "radius": 0.37
+        },
+        {
+          "x": 1.53,
+          "y": 0.64,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 356,
+      "final_position_m": {
+        "x": -0.008,
+        "y": 0.04
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.041,
+      "return_start_distance_m": 12.222,
+      "minimum_clearance_m": 0.594,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 101 - Generated 20",
+      "obstacles": [
+        {
+          "x": 2.12,
+          "y": -0.77,
+          "radius": 0.33
+        },
+        {
+          "x": 1.84,
+          "y": 3.54,
+          "radius": 0.34
+        },
+        {
+          "x": 1.79,
+          "y": 3.93,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 382,
+      "final_position_m": {
+        "x": 0.019,
+        "y": 0.008
+      },
+      "final_heading_rad": -2.683,
+      "final_distance_m": 0.02,
+      "return_start_distance_m": 14.017,
+      "minimum_clearance_m": 0.649,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 01",
+      "obstacles": [
+        {
+          "x": 1.85,
+          "y": 3.61,
+          "radius": 0.32
+        },
+        {
+          "x": 4.31,
+          "y": 4.25,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 3.059,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 02",
+      "obstacles": [
+        {
+          "x": 2.13,
+          "y": 4.11,
+          "radius": 0.29
+        },
+        {
+          "x": 2.15,
+          "y": 1.0,
+          "radius": 0.31
+        },
+        {
+          "x": 0.71,
+          "y": 1.62,
+          "radius": 0.27
+        },
+        {
+          "x": 3.27,
+          "y": -0.58,
+          "radius": 0.33
+        },
+        {
+          "x": 2.63,
+          "y": 4.43,
+          "radius": 0.27
+        },
+        {
+          "x": 1.31,
+          "y": 3.74,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 331,
+      "final_position_m": {
+        "x": 0.001,
+        "y": -0.033
+      },
+      "final_heading_rad": 1.633,
+      "final_distance_m": 0.033,
+      "return_start_distance_m": 10.539,
+      "minimum_clearance_m": 0.588,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 03",
+      "obstacles": [
+        {
+          "x": 3.17,
+          "y": 0.59,
+          "radius": 0.46
+        },
+        {
+          "x": 4.01,
+          "y": 1.06,
+          "radius": 0.45
+        },
+        {
+          "x": 1.59,
+          "y": 2.65,
+          "radius": 0.38
+        },
+        {
+          "x": 4.18,
+          "y": 0.89,
+          "radius": 0.35
+        },
+        {
+          "x": 4.01,
+          "y": 2.08,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 290,
+      "final_position_m": {
+        "x": -0.038,
+        "y": 0.017
+      },
+      "final_heading_rad": -0.433,
+      "final_distance_m": 0.042,
+      "return_start_distance_m": 7.758,
+      "minimum_clearance_m": 0.594,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 04",
+      "obstacles": [
+        {
+          "x": 4.53,
+          "y": 1.92,
+          "radius": 0.42
+        },
+        {
+          "x": 2.31,
+          "y": -0.81,
+          "radius": 0.44
+        },
+        {
+          "x": 1.48,
+          "y": 3.92,
+          "radius": 0.48
+        },
+        {
+          "x": 3.53,
+          "y": 0.02,
+          "radius": 0.33
+        },
+        {
+          "x": 2.38,
+          "y": -0.56,
+          "radius": 0.36
+        },
+        {
+          "x": 3.16,
+          "y": 1.02,
+          "radius": 0.3
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 345,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.034
+      },
+      "final_heading_rad": -2.25,
+      "final_distance_m": 0.045,
+      "return_start_distance_m": 11.459,
+      "minimum_clearance_m": 0.628,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 05",
+      "obstacles": [
+        {
+          "x": 4.28,
+          "y": 1.18,
+          "radius": 0.47
+        },
+        {
+          "x": 4.99,
+          "y": 1.43,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 389,
+      "final_position_m": {
+        "x": 0.039,
+        "y": -0.002
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.039,
+      "return_start_distance_m": 14.493,
+      "minimum_clearance_m": 0.634,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 06",
+      "obstacles": [
+        {
+          "x": 3.45,
+          "y": 4.95,
+          "radius": 0.49
+        },
+        {
+          "x": 3.41,
+          "y": 0.4,
+          "radius": 0.37
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 334,
+      "final_position_m": {
+        "x": 0.001,
+        "y": 0.022
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.022,
+      "return_start_distance_m": 10.737,
+      "minimum_clearance_m": 0.584,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 07",
+      "obstacles": [
+        {
+          "x": 1.36,
+          "y": 2.22,
+          "radius": 0.34
+        },
+        {
+          "x": 2.68,
+          "y": -0.94,
+          "radius": 0.36
+        },
+        {
+          "x": 0.79,
+          "y": 3.79,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 387,
+      "final_position_m": {
+        "x": 0.031,
+        "y": 0.006
+      },
+      "final_heading_rad": -2.983,
+      "final_distance_m": 0.031,
+      "return_start_distance_m": 14.345,
+      "minimum_clearance_m": 0.589,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 08",
+      "obstacles": [
+        {
+          "x": 3.43,
+          "y": -1.0,
+          "radius": 0.4
+        },
+        {
+          "x": 2.89,
+          "y": 3.24,
+          "radius": 0.27
+        },
+        {
+          "x": 4.56,
+          "y": 3.77,
+          "radius": 0.34
+        },
+        {
+          "x": 3.05,
+          "y": 2.81,
+          "radius": 0.26
+        },
+        {
+          "x": 2.09,
+          "y": 4.73,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 386,
+      "final_position_m": {
+        "x": 0.048,
+        "y": 0.009
+      },
+      "final_heading_rad": -2.983,
+      "final_distance_m": 0.049,
+      "return_start_distance_m": 14.324,
+      "minimum_clearance_m": 0.622,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 09",
+      "obstacles": [
+        {
+          "x": 2.14,
+          "y": 1.09,
+          "radius": 0.41
+        },
+        {
+          "x": 4.87,
+          "y": 4.3,
+          "radius": 0.35
+        },
+        {
+          "x": 3.79,
+          "y": 3.07,
+          "radius": 0.34
+        },
+        {
+          "x": 1.71,
+          "y": -0.53,
+          "radius": 0.47
+        },
+        {
+          "x": 0.95,
+          "y": 2.11,
+          "radius": 0.38
+        },
+        {
+          "x": 1.33,
+          "y": 2.94,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 309,
+      "final_position_m": {
+        "x": -0.025,
+        "y": 0.01
+      },
+      "final_heading_rad": -0.433,
+      "final_distance_m": 0.027,
+      "return_start_distance_m": 9.051,
+      "minimum_clearance_m": 0.606,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 10",
+      "obstacles": [
+        {
+          "x": 2.28,
+          "y": 2.21,
+          "radius": 0.33
+        },
+        {
+          "x": 1.21,
+          "y": 0.0,
+          "radius": 0.4
+        },
+        {
+          "x": 2.56,
+          "y": 3.45,
+          "radius": 0.36
+        },
+        {
+          "x": 0.79,
+          "y": 1.7,
+          "radius": 0.43
+        },
+        {
+          "x": 3.8,
+          "y": 3.27,
+          "radius": 0.36
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 352,
+      "final_position_m": {
+        "x": -0.036,
+        "y": 0.032
+      },
+      "final_heading_rad": -0.733,
+      "final_distance_m": 0.048,
+      "return_start_distance_m": 11.985,
+      "minimum_clearance_m": 0.563,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 11",
+      "obstacles": [
+        {
+          "x": 4.1,
+          "y": -0.83,
+          "radius": 0.38
+        },
+        {
+          "x": 4.45,
+          "y": 2.09,
+          "radius": 0.28
+        },
+        {
+          "x": 2.85,
+          "y": 2.27,
+          "radius": 0.34
+        },
+        {
+          "x": 4.54,
+          "y": 1.04,
+          "radius": 0.32
+        },
+        {
+          "x": 2.88,
+          "y": 0.22,
+          "radius": 0.33
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 329,
+      "final_position_m": {
+        "x": -0.006,
+        "y": 0.039
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.039,
+      "return_start_distance_m": 10.441,
+      "minimum_clearance_m": 0.597,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 12",
+      "obstacles": [
+        {
+          "x": 0.89,
+          "y": 2.0,
+          "radius": 0.49
+        },
+        {
+          "x": 2.87,
+          "y": 3.55,
+          "radius": 0.47
+        },
+        {
+          "x": 0.77,
+          "y": 0.61,
+          "radius": 0.31
+        },
+        {
+          "x": 3.28,
+          "y": -0.5,
+          "radius": 0.39
+        },
+        {
+          "x": 1.27,
+          "y": 4.34,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 461,
+      "final_position_m": {
+        "x": -0.017,
+        "y": 0.002
+      },
+      "final_heading_rad": -0.167,
+      "final_distance_m": 0.017,
+      "return_start_distance_m": 14.125,
+      "minimum_clearance_m": 0.541,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 13",
+      "obstacles": [
+        {
+          "x": 4.08,
+          "y": 1.9,
+          "radius": 0.43
+        },
+        {
+          "x": 4.04,
+          "y": 0.54,
+          "radius": 0.46
+        },
+        {
+          "x": 3.19,
+          "y": 1.92,
+          "radius": 0.35
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 290,
+      "final_position_m": {
+        "x": -0.008,
+        "y": 0.019
+      },
+      "final_heading_rad": -1.183,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 7.741,
+      "minimum_clearance_m": 0.586,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 14",
+      "obstacles": [
+        {
+          "x": 4.31,
+          "y": 4.55,
+          "radius": 0.4
+        },
+        {
+          "x": 0.73,
+          "y": 3.76,
+          "radius": 0.4
+        },
+        {
+          "x": 4.87,
+          "y": 1.06,
+          "radius": 0.4
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 384,
+      "final_position_m": {
+        "x": 0.043,
+        "y": -0.006
+      },
+      "final_heading_rad": 2.833,
+      "final_distance_m": 0.044,
+      "return_start_distance_m": 14.288,
+      "minimum_clearance_m": 0.632,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 15",
+      "obstacles": [
+        {
+          "x": 2.25,
+          "y": 1.76,
+          "radius": 0.49
+        },
+        {
+          "x": 4.38,
+          "y": 0.89,
+          "radius": 0.3
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 386,
+      "final_position_m": {
+        "x": 0.023,
+        "y": -0.004
+      },
+      "final_heading_rad": 2.983,
+      "final_distance_m": 0.024,
+      "return_start_distance_m": 14.299,
+      "minimum_clearance_m": 0.602,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 16",
+      "obstacles": [
+        {
+          "x": 2.18,
+          "y": 3.52,
+          "radius": 0.46
+        },
+        {
+          "x": 1.48,
+          "y": 4.86,
+          "radius": 0.27
+        },
+        {
+          "x": 2.48,
+          "y": 2.0,
+          "radius": 0.46
+        },
+        {
+          "x": 1.45,
+          "y": 2.35,
+          "radius": 0.34
+        },
+        {
+          "x": 4.66,
+          "y": -0.27,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 490,
+      "final_position_m": {
+        "x": 0.024,
+        "y": 0.004
+      },
+      "final_heading_rad": -2.833,
+      "final_distance_m": 0.024,
+      "return_start_distance_m": 12.512,
+      "minimum_clearance_m": 0.614,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 17",
+      "obstacles": [
+        {
+          "x": 2.09,
+          "y": 4.67,
+          "radius": 0.26
+        },
+        {
+          "x": 2.37,
+          "y": -0.36,
+          "radius": 0.39
+        },
+        {
+          "x": 4.84,
+          "y": 0.95,
+          "radius": 0.41
+        },
+        {
+          "x": 1.84,
+          "y": 1.64,
+          "radius": 0.39
+        },
+        {
+          "x": 1.77,
+          "y": 3.14,
+          "radius": 0.38
+        },
+        {
+          "x": 4.59,
+          "y": 0.65,
+          "radius": 0.49
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 313,
+      "final_position_m": {
+        "x": -0.035,
+        "y": 0.018
+      },
+      "final_heading_rad": -0.583,
+      "final_distance_m": 0.039,
+      "return_start_distance_m": 9.375,
+      "minimum_clearance_m": 0.58,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 18",
+      "obstacles": [
+        {
+          "x": 1.23,
+          "y": 1.57,
+          "radius": 0.37
+        },
+        {
+          "x": 1.27,
+          "y": 2.21,
+          "radius": 0.37
+        },
+        {
+          "x": 3.03,
+          "y": 0.96,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 387,
+      "final_position_m": {
+        "x": 0.02,
+        "y": -0.005
+      },
+      "final_heading_rad": 2.983,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 14.332,
+      "minimum_clearance_m": 0.614,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 19",
+      "obstacles": [
+        {
+          "x": 3.27,
+          "y": -0.81,
+          "radius": 0.38
+        },
+        {
+          "x": 4.61,
+          "y": 2.61,
+          "radius": 0.49
+        },
+        {
+          "x": 3.73,
+          "y": 4.41,
+          "radius": 0.25
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 391,
+      "final_position_m": {
+        "x": 0.04,
+        "y": 0.003
+      },
+      "final_heading_rad": -3.0,
+      "final_distance_m": 0.04,
+      "return_start_distance_m": 13.098,
+      "minimum_clearance_m": 0.603,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 123 - Generated 20",
+      "obstacles": [
+        {
+          "x": 1.68,
+          "y": 4.33,
+          "radius": 0.47
+        },
+        {
+          "x": 1.93,
+          "y": 4.97,
+          "radius": 0.34
+        },
+        {
+          "x": 0.89,
+          "y": -0.92,
+          "radius": 0.42
+        },
+        {
+          "x": 1.55,
+          "y": 0.62,
+          "radius": 0.29
+        },
+        {
+          "x": 3.87,
+          "y": 2.19,
+          "radius": 0.3
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 345,
+      "final_position_m": {
+        "x": 0.0,
+        "y": 0.04
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.04,
+      "return_start_distance_m": 11.419,
+      "minimum_clearance_m": 0.586,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 01",
+      "obstacles": [
+        {
+          "x": 2.03,
+          "y": 1.2,
+          "radius": 0.45
+        },
+        {
+          "x": 2.67,
+          "y": 1.6,
+          "radius": 0.5
+        },
+        {
+          "x": 1.44,
+          "y": 3.0,
+          "radius": 0.39
+        },
+        {
+          "x": 4.74,
+          "y": 2.61,
+          "radius": 0.46
+        },
+        {
+          "x": 1.94,
+          "y": -0.03,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 328,
+      "final_position_m": {
+        "x": -0.007,
+        "y": 0.024
+      },
+      "final_heading_rad": -1.183,
+      "final_distance_m": 0.025,
+      "return_start_distance_m": 10.332,
+      "minimum_clearance_m": 0.581,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 02",
+      "obstacles": [
+        {
+          "x": 2.71,
+          "y": -0.79,
+          "radius": 0.46
+        },
+        {
+          "x": 4.96,
+          "y": 0.3,
+          "radius": 0.39
+        },
+        {
+          "x": 4.03,
+          "y": 4.05,
+          "radius": 0.41
+        },
+        {
+          "x": 0.75,
+          "y": -0.19,
+          "radius": 0.34
+        },
+        {
+          "x": 4.99,
+          "y": 1.68,
+          "radius": 0.46
+        },
+        {
+          "x": 2.75,
+          "y": 4.72,
+          "radius": 0.27
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 442,
+      "final_position_m": {
+        "x": -0.018,
+        "y": -0.002
+      },
+      "final_heading_rad": 0.317,
+      "final_distance_m": 0.018,
+      "return_start_distance_m": 13.112,
+      "minimum_clearance_m": 0.308,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 03",
+      "obstacles": [
+        {
+          "x": 2.04,
+          "y": 3.09,
+          "radius": 0.38
+        },
+        {
+          "x": 4.31,
+          "y": -0.31,
+          "radius": 0.48
+        },
+        {
+          "x": 3.15,
+          "y": 1.57,
+          "radius": 0.25
+        },
+        {
+          "x": 2.19,
+          "y": 4.57,
+          "radius": 0.29
+        },
+        {
+          "x": 3.7,
+          "y": -1.0,
+          "radius": 0.48
+        },
+        {
+          "x": 4.46,
+          "y": 3.72,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 211,
+      "final_position_m": {
+        "x": -0.01,
+        "y": -0.018
+      },
+      "final_heading_rad": 1.333,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 2.464,
+      "minimum_clearance_m": 0.609,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 04",
+      "obstacles": [
+        {
+          "x": 4.29,
+          "y": 4.12,
+          "radius": 0.3
+        },
+        {
+          "x": 4.92,
+          "y": 3.3,
+          "radius": 0.36
+        },
+        {
+          "x": 3.38,
+          "y": 3.37,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.735,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 05",
+      "obstacles": [
+        {
+          "x": 0.8,
+          "y": 1.66,
+          "radius": 0.46
+        },
+        {
+          "x": 3.27,
+          "y": 1.77,
+          "radius": 0.45
+        },
+        {
+          "x": 3.31,
+          "y": 1.23,
+          "radius": 0.49
+        },
+        {
+          "x": 0.78,
+          "y": -0.88,
+          "radius": 0.28
+        },
+        {
+          "x": 1.7,
+          "y": 0.68,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 319,
+      "final_position_m": {
+        "x": -0.035,
+        "y": 0.015
+      },
+      "final_heading_rad": -0.433,
+      "final_distance_m": 0.038,
+      "return_start_distance_m": 9.636,
+      "minimum_clearance_m": 0.608,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 06",
+      "obstacles": [
+        {
+          "x": 3.38,
+          "y": 3.22,
+          "radius": 0.49
+        },
+        {
+          "x": 1.2,
+          "y": 0.01,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 373,
+      "final_position_m": {
+        "x": 0.02,
+        "y": 0.03
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 13.462,
+      "minimum_clearance_m": 0.582,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 07",
+      "obstacles": [
+        {
+          "x": 1.81,
+          "y": -0.9,
+          "radius": 0.42
+        },
+        {
+          "x": 1.65,
+          "y": -0.4,
+          "radius": 0.44
+        },
+        {
+          "x": 3.47,
+          "y": 1.65,
+          "radius": 0.47
+        },
+        {
+          "x": 2.17,
+          "y": 3.21,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 318,
+      "final_position_m": {
+        "x": -0.025,
+        "y": 0.043
+      },
+      "final_heading_rad": -0.883,
+      "final_distance_m": 0.049,
+      "return_start_distance_m": 9.917,
+      "minimum_clearance_m": 0.586,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 08",
+      "obstacles": [
+        {
+          "x": 2.26,
+          "y": 1.97,
+          "radius": 0.3
+        },
+        {
+          "x": 2.9,
+          "y": 2.28,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.443,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 09",
+      "obstacles": [
+        {
+          "x": 0.76,
+          "y": 1.84,
+          "radius": 0.31
+        },
+        {
+          "x": 2.2,
+          "y": 4.81,
+          "radius": 0.41
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.309,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 10",
+      "obstacles": [
+        {
+          "x": 4.29,
+          "y": 3.11,
+          "radius": 0.44
+        },
+        {
+          "x": 1.82,
+          "y": 2.18,
+          "radius": 0.29
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.659,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 11",
+      "obstacles": [
+        {
+          "x": 1.73,
+          "y": 1.87,
+          "radius": 0.4
+        },
+        {
+          "x": 1.34,
+          "y": 3.66,
+          "radius": 0.29
+        },
+        {
+          "x": 1.42,
+          "y": 3.87,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.238,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 12",
+      "obstacles": [
+        {
+          "x": 3.53,
+          "y": 1.84,
+          "radius": 0.31
+        },
+        {
+          "x": 1.68,
+          "y": 2.77,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.314,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 13",
+      "obstacles": [
+        {
+          "x": 4.9,
+          "y": 2.84,
+          "radius": 0.45
+        },
+        {
+          "x": 4.65,
+          "y": 3.93,
+          "radius": 0.29
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.185,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 14",
+      "obstacles": [
+        {
+          "x": 0.72,
+          "y": 4.57,
+          "radius": 0.33
+        },
+        {
+          "x": 4.07,
+          "y": 1.98,
+          "radius": 0.39
+        },
+        {
+          "x": 2.69,
+          "y": 4.38,
+          "radius": 0.47
+        },
+        {
+          "x": 1.67,
+          "y": -0.41,
+          "radius": 0.45
+        },
+        {
+          "x": 4.85,
+          "y": 0.38,
+          "radius": 0.3
+        },
+        {
+          "x": 2.17,
+          "y": -0.81,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 238,
+      "final_position_m": {
+        "x": -0.015,
+        "y": 0.003
+      },
+      "final_heading_rad": -0.133,
+      "final_distance_m": 0.016,
+      "return_start_distance_m": 4.275,
+      "minimum_clearance_m": 0.592,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 15",
+      "obstacles": [
+        {
+          "x": 2.0,
+          "y": 1.76,
+          "radius": 0.43
+        },
+        {
+          "x": 2.71,
+          "y": 0.73,
+          "radius": 0.25
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 384,
+      "final_position_m": {
+        "x": 0.016,
+        "y": -0.008
+      },
+      "final_heading_rad": 2.833,
+      "final_distance_m": 0.017,
+      "return_start_distance_m": 14.153,
+      "minimum_clearance_m": 0.596,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 16",
+      "obstacles": [
+        {
+          "x": 1.31,
+          "y": 3.28,
+          "radius": 0.33
+        },
+        {
+          "x": 3.27,
+          "y": 4.12,
+          "radius": 0.43
+        },
+        {
+          "x": 1.48,
+          "y": 1.33,
+          "radius": 0.49
+        },
+        {
+          "x": 4.14,
+          "y": 2.75,
+          "radius": 0.48
+        },
+        {
+          "x": 3.49,
+          "y": 2.34,
+          "radius": 0.46
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 398,
+      "final_position_m": {
+        "x": 0.044,
+        "y": 0.002
+      },
+      "final_heading_rad": -3.0,
+      "final_distance_m": 0.044,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.648,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 17",
+      "obstacles": [
+        {
+          "x": 1.55,
+          "y": 1.58,
+          "radius": 0.42
+        },
+        {
+          "x": 3.33,
+          "y": 0.33,
+          "radius": 0.35
+        },
+        {
+          "x": 1.34,
+          "y": 2.68,
+          "radius": 0.27
+        },
+        {
+          "x": 4.92,
+          "y": 2.16,
+          "radius": 0.46
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 285,
+      "final_position_m": {
+        "x": 0.006,
+        "y": -0.035
+      },
+      "final_heading_rad": 1.783,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 7.45,
+      "minimum_clearance_m": 0.583,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 18",
+      "obstacles": [
+        {
+          "x": 4.07,
+          "y": 1.62,
+          "radius": 0.46
+        },
+        {
+          "x": 1.83,
+          "y": 1.31,
+          "radius": 0.45
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 398,
+      "final_position_m": {
+        "x": 0.044,
+        "y": -0.003
+      },
+      "final_heading_rad": -3.0,
+      "final_distance_m": 0.044,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.661,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 19",
+      "obstacles": [
+        {
+          "x": 4.5,
+          "y": 2.91,
+          "radius": 0.42
+        },
+        {
+          "x": 3.41,
+          "y": 2.96,
+          "radius": 0.33
+        },
+        {
+          "x": 4.38,
+          "y": 3.04,
+          "radius": 0.45
+        },
+        {
+          "x": 1.23,
+          "y": 3.42,
+          "radius": 0.48
+        },
+        {
+          "x": 2.88,
+          "y": 1.04,
+          "radius": 0.26
+        },
+        {
+          "x": 1.29,
+          "y": 3.19,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 399,
+      "final_position_m": {
+        "x": 0.044,
+        "y": 0.002
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.044,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.598,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 256 - Generated 20",
+      "obstacles": [
+        {
+          "x": 3.87,
+          "y": 1.7,
+          "radius": 0.46
+        },
+        {
+          "x": 1.31,
+          "y": 4.74,
+          "radius": 0.31
+        },
+        {
+          "x": 3.23,
+          "y": 1.28,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.631,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 01",
+      "obstacles": [
+        {
+          "x": 4.2,
+          "y": -0.15,
+          "radius": 0.47
+        },
+        {
+          "x": 2.26,
+          "y": 2.74,
+          "radius": 0.45
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 365,
+      "final_position_m": {
+        "x": 0.003,
+        "y": 0.018
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.018,
+      "return_start_distance_m": 11.752,
+      "minimum_clearance_m": 0.614,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 02",
+      "obstacles": [
+        {
+          "x": 1.74,
+          "y": -0.97,
+          "radius": 0.44
+        },
+        {
+          "x": 2.85,
+          "y": 1.46,
+          "radius": 0.38
+        },
+        {
+          "x": 3.76,
+          "y": 4.36,
+          "radius": 0.32
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 320,
+      "final_position_m": {
+        "x": -0.007,
+        "y": 0.014
+      },
+      "final_heading_rad": -1.183,
+      "final_distance_m": 0.016,
+      "return_start_distance_m": 9.718,
+      "minimum_clearance_m": 0.566,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 03",
+      "obstacles": [
+        {
+          "x": 3.38,
+          "y": 2.6,
+          "radius": 0.32
+        },
+        {
+          "x": 1.74,
+          "y": 3.11,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.062,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 04",
+      "obstacles": [
+        {
+          "x": 2.63,
+          "y": 1.96,
+          "radius": 0.4
+        },
+        {
+          "x": 0.8,
+          "y": 4.03,
+          "radius": 0.46
+        },
+        {
+          "x": 4.02,
+          "y": 1.69,
+          "radius": 0.44
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.038,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 05",
+      "obstacles": [
+        {
+          "x": 3.09,
+          "y": -0.17,
+          "radius": 0.42
+        },
+        {
+          "x": 3.29,
+          "y": 3.17,
+          "radius": 0.47
+        },
+        {
+          "x": 3.1,
+          "y": 0.1,
+          "radius": 0.41
+        },
+        {
+          "x": 3.16,
+          "y": 2.58,
+          "radius": 0.34
+        },
+        {
+          "x": 1.24,
+          "y": 3.04,
+          "radius": 0.27
+        },
+        {
+          "x": 4.04,
+          "y": 3.63,
+          "radius": 0.49
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 232,
+      "final_position_m": {
+        "x": -0.016,
+        "y": -0.002
+      },
+      "final_heading_rad": 0.167,
+      "final_distance_m": 0.016,
+      "return_start_distance_m": 3.718,
+      "minimum_clearance_m": 0.593,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 06",
+      "obstacles": [
+        {
+          "x": 4.69,
+          "y": 3.35,
+          "radius": 0.49
+        },
+        {
+          "x": 4.12,
+          "y": 4.18,
+          "radius": 0.4
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.653,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 07",
+      "obstacles": [
+        {
+          "x": 3.75,
+          "y": 0.17,
+          "radius": 0.27
+        },
+        {
+          "x": 2.09,
+          "y": 2.37,
+          "radius": 0.36
+        },
+        {
+          "x": 1.91,
+          "y": 0.43,
+          "radius": 0.38
+        },
+        {
+          "x": 4.85,
+          "y": -0.81,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 357,
+      "final_position_m": {
+        "x": -0.0,
+        "y": 0.032
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.032,
+      "return_start_distance_m": 12.352,
+      "minimum_clearance_m": 0.581,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 08",
+      "obstacles": [
+        {
+          "x": 1.17,
+          "y": 1.15,
+          "radius": 0.4
+        },
+        {
+          "x": 2.23,
+          "y": 1.44,
+          "radius": 0.37
+        },
+        {
+          "x": 3.79,
+          "y": -0.82,
+          "radius": 0.28
+        },
+        {
+          "x": 1.79,
+          "y": 1.25,
+          "radius": 0.3
+        },
+        {
+          "x": 2.73,
+          "y": -0.62,
+          "radius": 0.37
+        },
+        {
+          "x": 2.01,
+          "y": 4.49,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 289,
+      "final_position_m": {
+        "x": -0.033,
+        "y": -0.016
+      },
+      "final_heading_rad": 0.45,
+      "final_distance_m": 0.037,
+      "return_start_distance_m": 7.611,
+      "minimum_clearance_m": 0.61,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 09",
+      "obstacles": [
+        {
+          "x": 1.8,
+          "y": 1.9,
+          "radius": 0.47
+        },
+        {
+          "x": 1.92,
+          "y": 4.52,
+          "radius": 0.36
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.199,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 10",
+      "obstacles": [
+        {
+          "x": 2.6,
+          "y": 0.64,
+          "radius": 0.43
+        },
+        {
+          "x": 4.93,
+          "y": 2.53,
+          "radius": 0.33
+        },
+        {
+          "x": 3.83,
+          "y": 3.88,
+          "radius": 0.46
+        },
+        {
+          "x": 3.29,
+          "y": 2.47,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 373,
+      "final_position_m": {
+        "x": 0.027,
+        "y": -0.024
+      },
+      "final_heading_rad": 2.233,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 13.478,
+      "minimum_clearance_m": 0.631,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 11",
+      "obstacles": [
+        {
+          "x": 3.62,
+          "y": 0.62,
+          "radius": 0.26
+        },
+        {
+          "x": 3.99,
+          "y": 4.41,
+          "radius": 0.39
+        },
+        {
+          "x": 0.88,
+          "y": 1.01,
+          "radius": 0.41
+        },
+        {
+          "x": 1.96,
+          "y": 4.94,
+          "radius": 0.41
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 386,
+      "final_position_m": {
+        "x": 0.041,
+        "y": -0.007
+      },
+      "final_heading_rad": 2.833,
+      "final_distance_m": 0.041,
+      "return_start_distance_m": 14.412,
+      "minimum_clearance_m": 0.606,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 12",
+      "obstacles": [
+        {
+          "x": 0.9,
+          "y": 4.93,
+          "radius": 0.28
+        },
+        {
+          "x": 0.74,
+          "y": 1.09,
+          "radius": 0.47
+        },
+        {
+          "x": 2.08,
+          "y": 3.44,
+          "radius": 0.32
+        },
+        {
+          "x": 1.52,
+          "y": 1.95,
+          "radius": 0.5
+        },
+        {
+          "x": 1.69,
+          "y": 2.65,
+          "radius": 0.37
+        },
+        {
+          "x": 3.61,
+          "y": 1.82,
+          "radius": 0.46
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 384,
+      "final_position_m": {
+        "x": 0.044,
+        "y": -0.014
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.046,
+      "return_start_distance_m": 14.315,
+      "minimum_clearance_m": 0.67,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 13",
+      "obstacles": [
+        {
+          "x": 3.16,
+          "y": -0.29,
+          "radius": 0.48
+        },
+        {
+          "x": 1.82,
+          "y": 4.15,
+          "radius": 0.35
+        },
+        {
+          "x": 4.41,
+          "y": 2.55,
+          "radius": 0.39
+        },
+        {
+          "x": 1.55,
+          "y": 2.53,
+          "radius": 0.27
+        },
+        {
+          "x": 0.93,
+          "y": 1.64,
+          "radius": 0.27
+        },
+        {
+          "x": 0.78,
+          "y": 3.68,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 467,
+      "final_position_m": {
+        "x": 0.039,
+        "y": 0.018
+      },
+      "final_heading_rad": -2.533,
+      "final_distance_m": 0.043,
+      "return_start_distance_m": 12.687,
+      "minimum_clearance_m": 0.567,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 14",
+      "obstacles": [
+        {
+          "x": 1.56,
+          "y": -0.21,
+          "radius": 0.27
+        },
+        {
+          "x": 3.13,
+          "y": 1.82,
+          "radius": 0.45
+        },
+        {
+          "x": 0.74,
+          "y": 4.16,
+          "radius": 0.43
+        },
+        {
+          "x": 3.2,
+          "y": 2.99,
+          "radius": 0.44
+        },
+        {
+          "x": 1.96,
+          "y": 1.44,
+          "radius": 0.3
+        },
+        {
+          "x": 2.86,
+          "y": 2.16,
+          "radius": 0.37
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 323,
+      "final_position_m": {
+        "x": -0.035,
+        "y": 0.033
+      },
+      "final_heading_rad": -0.733,
+      "final_distance_m": 0.048,
+      "return_start_distance_m": 10.078,
+      "minimum_clearance_m": 0.547,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 15",
+      "obstacles": [
+        {
+          "x": 3.0,
+          "y": 0.74,
+          "radius": 0.27
+        },
+        {
+          "x": 3.67,
+          "y": -0.0,
+          "radius": 0.28
+        },
+        {
+          "x": 4.12,
+          "y": -0.01,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 360,
+      "final_position_m": {
+        "x": 0.023,
+        "y": -0.027
+      },
+      "final_heading_rad": 2.233,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 12.543,
+      "minimum_clearance_m": 0.629,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 16",
+      "obstacles": [
+        {
+          "x": 2.76,
+          "y": 1.4,
+          "radius": 0.39
+        },
+        {
+          "x": 2.53,
+          "y": 2.15,
+          "radius": 0.27
+        },
+        {
+          "x": 2.93,
+          "y": 0.58,
+          "radius": 0.46
+        },
+        {
+          "x": 2.9,
+          "y": 2.85,
+          "radius": 0.3
+        },
+        {
+          "x": 3.7,
+          "y": 3.7,
+          "radius": 0.34
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 313,
+      "final_position_m": {
+        "x": -0.004,
+        "y": 0.025
+      },
+      "final_heading_rad": -1.483,
+      "final_distance_m": 0.025,
+      "return_start_distance_m": 9.242,
+      "minimum_clearance_m": 0.592,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 17",
+      "obstacles": [
+        {
+          "x": 2.52,
+          "y": -0.45,
+          "radius": 0.45
+        },
+        {
+          "x": 4.13,
+          "y": -0.46,
+          "radius": 0.44
+        },
+        {
+          "x": 1.08,
+          "y": 1.14,
+          "radius": 0.38
+        },
+        {
+          "x": 2.59,
+          "y": 4.07,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 313,
+      "final_position_m": {
+        "x": -0.043,
+        "y": -0.016
+      },
+      "final_heading_rad": 0.15,
+      "final_distance_m": 0.046,
+      "return_start_distance_m": 9.306,
+      "minimum_clearance_m": 0.611,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 18",
+      "obstacles": [
+        {
+          "x": 4.75,
+          "y": 4.79,
+          "radius": 0.34
+        },
+        {
+          "x": 1.72,
+          "y": -0.63,
+          "radius": 0.34
+        },
+        {
+          "x": 2.13,
+          "y": 2.14,
+          "radius": 0.47
+        },
+        {
+          "x": 4.6,
+          "y": 2.38,
+          "radius": 0.37
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 456,
+      "final_position_m": {
+        "x": 0.045,
+        "y": 0.019
+      },
+      "final_heading_rad": -2.717,
+      "final_distance_m": 0.049,
+      "return_start_distance_m": 12.662,
+      "minimum_clearance_m": 0.608,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 19",
+      "obstacles": [
+        {
+          "x": 3.0,
+          "y": 2.86,
+          "radius": 0.49
+        },
+        {
+          "x": 1.99,
+          "y": 4.98,
+          "radius": 0.31
+        },
+        {
+          "x": 4.91,
+          "y": 3.92,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.149,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 512 - Generated 20",
+      "obstacles": [
+        {
+          "x": 1.65,
+          "y": -0.75,
+          "radius": 0.29
+        },
+        {
+          "x": 1.34,
+          "y": 0.11,
+          "radius": 0.45
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 371,
+      "final_position_m": {
+        "x": 0.007,
+        "y": 0.02
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 13.271,
+      "minimum_clearance_m": 0.597,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 01",
+      "obstacles": [
+        {
+          "x": 4.55,
+          "y": 2.41,
+          "radius": 0.38
+        },
+        {
+          "x": 2.78,
+          "y": 4.27,
+          "radius": 0.41
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.822,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 02",
+      "obstacles": [
+        {
+          "x": 3.48,
+          "y": 4.03,
+          "radius": 0.29
+        },
+        {
+          "x": 4.89,
+          "y": -0.68,
+          "radius": 0.44
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 371,
+      "final_position_m": {
+        "x": 0.042,
+        "y": 0.021
+      },
+      "final_heading_rad": -2.683,
+      "final_distance_m": 0.047,
+      "return_start_distance_m": 13.346,
+      "minimum_clearance_m": 0.612,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 03",
+      "obstacles": [
+        {
+          "x": 4.49,
+          "y": 4.91,
+          "radius": 0.31
+        },
+        {
+          "x": 3.41,
+          "y": -0.55,
+          "radius": 0.26
+        },
+        {
+          "x": 1.56,
+          "y": 4.82,
+          "radius": 0.38
+        },
+        {
+          "x": 1.5,
+          "y": 3.05,
+          "radius": 0.29
+        },
+        {
+          "x": 4.51,
+          "y": 2.31,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 205,
+      "final_position_m": {
+        "x": -0.025,
+        "y": -0.007
+      },
+      "final_heading_rad": 0.317,
+      "final_distance_m": 0.026,
+      "return_start_distance_m": 1.841,
+      "minimum_clearance_m": 0.575,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 04",
+      "obstacles": [
+        {
+          "x": 4.55,
+          "y": 4.62,
+          "radius": 0.34
+        },
+        {
+          "x": 3.54,
+          "y": 2.0,
+          "radius": 0.25
+        },
+        {
+          "x": 0.94,
+          "y": 4.94,
+          "radius": 0.43
+        },
+        {
+          "x": 3.51,
+          "y": 1.42,
+          "radius": 0.47
+        },
+        {
+          "x": 4.36,
+          "y": 1.14,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 386,
+      "final_position_m": {
+        "x": 0.023,
+        "y": -0.004
+      },
+      "final_heading_rad": 2.983,
+      "final_distance_m": 0.024,
+      "return_start_distance_m": 14.299,
+      "minimum_clearance_m": 0.655,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 05",
+      "obstacles": [
+        {
+          "x": 2.65,
+          "y": -0.35,
+          "radius": 0.48
+        },
+        {
+          "x": 3.08,
+          "y": 0.03,
+          "radius": 0.31
+        },
+        {
+          "x": 4.12,
+          "y": 0.25,
+          "radius": 0.38
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 366,
+      "final_position_m": {
+        "x": 0.012,
+        "y": 0.016
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.02,
+      "return_start_distance_m": 12.944,
+      "minimum_clearance_m": 0.599,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 06",
+      "obstacles": [
+        {
+          "x": 1.33,
+          "y": 1.82,
+          "radius": 0.33
+        },
+        {
+          "x": 2.71,
+          "y": -0.4,
+          "radius": 0.45
+        },
+        {
+          "x": 2.46,
+          "y": -0.5,
+          "radius": 0.34
+        },
+        {
+          "x": 1.11,
+          "y": 4.54,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 475,
+      "final_position_m": {
+        "x": -0.001,
+        "y": 0.018
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.018,
+      "return_start_distance_m": 12.909,
+      "minimum_clearance_m": 0.592,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 07",
+      "obstacles": [
+        {
+          "x": 2.33,
+          "y": 0.86,
+          "radius": 0.44
+        },
+        {
+          "x": 0.92,
+          "y": 2.71,
+          "radius": 0.48
+        },
+        {
+          "x": 0.89,
+          "y": 1.75,
+          "radius": 0.45
+        },
+        {
+          "x": 4.67,
+          "y": 2.93,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 382,
+      "final_position_m": {
+        "x": 0.024,
+        "y": -0.014
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.028,
+      "return_start_distance_m": 13.989,
+      "minimum_clearance_m": 0.618,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 08",
+      "obstacles": [
+        {
+          "x": 4.54,
+          "y": 4.2,
+          "radius": 0.39
+        },
+        {
+          "x": 2.05,
+          "y": 1.61,
+          "radius": 0.46
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.921,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 09",
+      "obstacles": [
+        {
+          "x": 2.65,
+          "y": -0.76,
+          "radius": 0.49
+        },
+        {
+          "x": 3.35,
+          "y": -0.36,
+          "radius": 0.33
+        },
+        {
+          "x": 2.64,
+          "y": 4.96,
+          "radius": 0.46
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 377,
+      "final_position_m": {
+        "x": 0.03,
+        "y": 0.017
+      },
+      "final_heading_rad": -2.383,
+      "final_distance_m": 0.035,
+      "return_start_distance_m": 13.718,
+      "minimum_clearance_m": 0.594,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 10",
+      "obstacles": [
+        {
+          "x": 1.9,
+          "y": 3.68,
+          "radius": 0.44
+        },
+        {
+          "x": 2.22,
+          "y": 2.38,
+          "radius": 0.38
+        },
+        {
+          "x": 0.73,
+          "y": 1.49,
+          "radius": 0.38
+        },
+        {
+          "x": 3.92,
+          "y": -0.19,
+          "radius": 0.26
+        },
+        {
+          "x": 1.63,
+          "y": 0.69,
+          "radius": 0.31
+        },
+        {
+          "x": 3.01,
+          "y": 1.15,
+          "radius": 0.44
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 383,
+      "final_position_m": {
+        "x": 0.015,
+        "y": -0.011
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.019,
+      "return_start_distance_m": 14.093,
+      "minimum_clearance_m": 0.608,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 11",
+      "obstacles": [
+        {
+          "x": 0.87,
+          "y": 1.1,
+          "radius": 0.32
+        },
+        {
+          "x": 3.15,
+          "y": -0.36,
+          "radius": 0.35
+        },
+        {
+          "x": 4.04,
+          "y": 1.35,
+          "radius": 0.35
+        },
+        {
+          "x": 3.55,
+          "y": 0.07,
+          "radius": 0.26
+        },
+        {
+          "x": 1.75,
+          "y": 3.04,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 523,
+      "final_position_m": {
+        "x": 0.026,
+        "y": 0.001
+      },
+      "final_heading_rad": -2.983,
+      "final_distance_m": 0.026,
+      "return_start_distance_m": 12.638,
+      "minimum_clearance_m": 0.623,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 12",
+      "obstacles": [
+        {
+          "x": 3.07,
+          "y": 1.4,
+          "radius": 0.47
+        },
+        {
+          "x": 3.89,
+          "y": 1.37,
+          "radius": 0.33
+        },
+        {
+          "x": 4.06,
+          "y": 2.45,
+          "radius": 0.34
+        },
+        {
+          "x": 1.66,
+          "y": 2.65,
+          "radius": 0.39
+        },
+        {
+          "x": 1.5,
+          "y": -0.98,
+          "radius": 0.45
+        },
+        {
+          "x": 3.9,
+          "y": 0.29,
+          "radius": 0.48
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 289,
+      "final_position_m": {
+        "x": -0.033,
+        "y": 0.017
+      },
+      "final_heading_rad": -0.433,
+      "final_distance_m": 0.037,
+      "return_start_distance_m": 7.65,
+      "minimum_clearance_m": 0.612,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 13",
+      "obstacles": [
+        {
+          "x": 2.72,
+          "y": 3.59,
+          "radius": 0.3
+        },
+        {
+          "x": 4.03,
+          "y": 0.58,
+          "radius": 0.28
+        },
+        {
+          "x": 3.94,
+          "y": 1.54,
+          "radius": 0.44
+        },
+        {
+          "x": 1.38,
+          "y": 4.48,
+          "radius": 0.35
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 373,
+      "final_position_m": {
+        "x": 0.021,
+        "y": -0.009
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.023,
+      "return_start_distance_m": 13.445,
+      "minimum_clearance_m": 0.59,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 14",
+      "obstacles": [
+        {
+          "x": 2.56,
+          "y": 2.72,
+          "radius": 0.27
+        },
+        {
+          "x": 1.33,
+          "y": 2.68,
+          "radius": 0.35
+        },
+        {
+          "x": 4.59,
+          "y": 2.42,
+          "radius": 0.32
+        },
+        {
+          "x": 1.59,
+          "y": 4.17,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.892,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 15",
+      "obstacles": [
+        {
+          "x": 2.25,
+          "y": -0.2,
+          "radius": 0.35
+        },
+        {
+          "x": 1.4,
+          "y": 4.41,
+          "radius": 0.29
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 420,
+      "final_position_m": {
+        "x": 0.009,
+        "y": 0.015
+      },
+      "final_heading_rad": -2.233,
+      "final_distance_m": 0.017,
+      "return_start_distance_m": 13.108,
+      "minimum_clearance_m": 0.581,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 16",
+      "obstacles": [
+        {
+          "x": 0.81,
+          "y": -0.29,
+          "radius": 0.43
+        },
+        {
+          "x": 4.74,
+          "y": 0.66,
+          "radius": 0.38
+        },
+        {
+          "x": 4.03,
+          "y": 1.96,
+          "radius": 0.5
+        },
+        {
+          "x": 1.05,
+          "y": 3.59,
+          "radius": 0.31
+        },
+        {
+          "x": 2.88,
+          "y": 0.77,
+          "radius": 0.37
+        },
+        {
+          "x": 4.63,
+          "y": -0.18,
+          "radius": 0.36
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 318,
+      "final_position_m": {
+        "x": -0.032,
+        "y": 0.016
+      },
+      "final_heading_rad": -0.583,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 9.794,
+      "minimum_clearance_m": 0.31,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 17",
+      "obstacles": [
+        {
+          "x": 1.16,
+          "y": 1.53,
+          "radius": 0.38
+        },
+        {
+          "x": 2.94,
+          "y": 0.0,
+          "radius": 0.27
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 511,
+      "final_position_m": {
+        "x": 0.024,
+        "y": -0.0
+      },
+      "final_heading_rad": -3.133,
+      "final_distance_m": 0.024,
+      "return_start_distance_m": 12.589,
+      "minimum_clearance_m": 0.579,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 18",
+      "obstacles": [
+        {
+          "x": 3.37,
+          "y": 3.26,
+          "radius": 0.33
+        },
+        {
+          "x": 2.46,
+          "y": 4.95,
+          "radius": 0.41
+        },
+        {
+          "x": 1.99,
+          "y": -0.36,
+          "radius": 0.32
+        },
+        {
+          "x": 1.95,
+          "y": 4.69,
+          "radius": 0.41
+        },
+        {
+          "x": 2.68,
+          "y": 4.11,
+          "radius": 0.27
+        },
+        {
+          "x": 3.85,
+          "y": 4.04,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 240,
+      "final_position_m": {
+        "x": -0.011,
+        "y": 0.028
+      },
+      "final_heading_rad": -1.033,
+      "final_distance_m": 0.03,
+      "return_start_distance_m": 4.604,
+      "minimum_clearance_m": 0.563,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 19",
+      "obstacles": [
+        {
+          "x": 3.18,
+          "y": 0.88,
+          "radius": 0.49
+        },
+        {
+          "x": 2.81,
+          "y": -0.97,
+          "radius": 0.3
+        },
+        {
+          "x": 2.33,
+          "y": 4.97,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 308,
+      "final_position_m": {
+        "x": -0.026,
+        "y": -0.042
+      },
+      "final_heading_rad": 1.033,
+      "final_distance_m": 0.05,
+      "return_start_distance_m": 8.991,
+      "minimum_clearance_m": 0.593,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 999 - Generated 20",
+      "obstacles": [
+        {
+          "x": 1.56,
+          "y": 0.69,
+          "radius": 0.32
+        },
+        {
+          "x": 1.12,
+          "y": 1.6,
+          "radius": 0.43
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 383,
+      "final_position_m": {
+        "x": 0.027,
+        "y": -0.018
+      },
+      "final_heading_rad": 2.683,
+      "final_distance_m": 0.032,
+      "return_start_distance_m": 14.108,
+      "minimum_clearance_m": 0.615,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 01",
+      "obstacles": [
+        {
+          "x": 2.07,
+          "y": 4.71,
+          "radius": 0.41
+        },
+        {
+          "x": 4.8,
+          "y": 4.3,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 3.624,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 02",
+      "obstacles": [
+        {
+          "x": 3.09,
+          "y": 3.7,
+          "radius": 0.39
+        },
+        {
+          "x": 3.84,
+          "y": 3.61,
+          "radius": 0.44
+        },
+        {
+          "x": 3.22,
+          "y": 0.44,
+          "radius": 0.4
+        },
+        {
+          "x": 1.18,
+          "y": 3.9,
+          "radius": 0.36
+        },
+        {
+          "x": 4.2,
+          "y": 3.11,
+          "radius": 0.42
+        },
+        {
+          "x": 1.6,
+          "y": 0.51,
+          "radius": 0.49
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 362,
+      "final_position_m": {
+        "x": -0.011,
+        "y": 0.042
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.043,
+      "return_start_distance_m": 12.648,
+      "minimum_clearance_m": 0.601,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 03",
+      "obstacles": [
+        {
+          "x": 4.16,
+          "y": 5.0,
+          "radius": 0.38
+        },
+        {
+          "x": 1.03,
+          "y": 1.04,
+          "radius": 0.39
+        },
+        {
+          "x": 1.96,
+          "y": 1.74,
+          "radius": 0.47
+        },
+        {
+          "x": 3.73,
+          "y": 2.46,
+          "radius": 0.26
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 387,
+      "final_position_m": {
+        "x": 0.036,
+        "y": -0.004
+      },
+      "final_heading_rad": 2.983,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 14.403,
+      "minimum_clearance_m": 0.64,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 04",
+      "obstacles": [
+        {
+          "x": 2.26,
+          "y": 1.53,
+          "radius": 0.35
+        },
+        {
+          "x": 3.22,
+          "y": 1.99,
+          "radius": 0.28
+        },
+        {
+          "x": 2.88,
+          "y": 3.5,
+          "radius": 0.4
+        },
+        {
+          "x": 2.81,
+          "y": 4.5,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 0.953,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 05",
+      "obstacles": [
+        {
+          "x": 3.13,
+          "y": 4.89,
+          "radius": 0.38
+        },
+        {
+          "x": 4.16,
+          "y": 2.45,
+          "radius": 0.44
+        },
+        {
+          "x": 4.22,
+          "y": 4.78,
+          "radius": 0.38
+        },
+        {
+          "x": 3.58,
+          "y": 3.3,
+          "radius": 0.36
+        },
+        {
+          "x": 1.31,
+          "y": 4.31,
+          "radius": 0.46
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.799,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 06",
+      "obstacles": [
+        {
+          "x": 3.39,
+          "y": 1.74,
+          "radius": 0.37
+        },
+        {
+          "x": 4.7,
+          "y": 4.92,
+          "radius": 0.39
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.152,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 07",
+      "obstacles": [
+        {
+          "x": 2.43,
+          "y": 4.99,
+          "radius": 0.39
+        },
+        {
+          "x": 3.48,
+          "y": 3.19,
+          "radius": 0.45
+        },
+        {
+          "x": 2.43,
+          "y": 0.22,
+          "radius": 0.46
+        },
+        {
+          "x": 0.74,
+          "y": -0.1,
+          "radius": 0.47
+        },
+        {
+          "x": 4.83,
+          "y": 3.82,
+          "radius": 0.48
+        },
+        {
+          "x": 2.25,
+          "y": 0.2,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": false,
+      "arrival_step": null,
+      "final_position_m": {
+        "x": 1.341,
+        "y": 0.949
+      },
+      "final_heading_rad": -0.966,
+      "final_distance_m": 1.642,
+      "return_start_distance_m": 13.525,
+      "minimum_clearance_m": 0.157,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": true,
+      "avoidance_steps": 13
+    },
+    {
+      "name": "Seed 2026 - Generated 08",
+      "obstacles": [
+        {
+          "x": 2.9,
+          "y": 3.96,
+          "radius": 0.45
+        },
+        {
+          "x": 3.1,
+          "y": 4.44,
+          "radius": 0.46
+        },
+        {
+          "x": 2.06,
+          "y": 4.5,
+          "radius": 0.27
+        },
+        {
+          "x": 3.66,
+          "y": 3.71,
+          "radius": 0.38
+        },
+        {
+          "x": 2.65,
+          "y": 4.79,
+          "radius": 0.49
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 3.115,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 09",
+      "obstacles": [
+        {
+          "x": 4.74,
+          "y": 2.89,
+          "radius": 0.48
+        },
+        {
+          "x": 2.29,
+          "y": 0.17,
+          "radius": 0.46
+        },
+        {
+          "x": 1.33,
+          "y": 4.5,
+          "radius": 0.27
+        },
+        {
+          "x": 2.64,
+          "y": 2.28,
+          "radius": 0.46
+        },
+        {
+          "x": 3.32,
+          "y": 0.19,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 298,
+      "final_position_m": {
+        "x": -0.012,
+        "y": 0.017
+      },
+      "final_heading_rad": -0.883,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 8.337,
+      "minimum_clearance_m": 0.547,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 10",
+      "obstacles": [
+        {
+          "x": 3.93,
+          "y": 4.74,
+          "radius": 0.42
+        },
+        {
+          "x": 3.43,
+          "y": -0.07,
+          "radius": 0.33
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 294,
+      "final_position_m": {
+        "x": -0.002,
+        "y": 0.021
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.021,
+      "return_start_distance_m": 8.223,
+      "minimum_clearance_m": 0.57,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 11",
+      "obstacles": [
+        {
+          "x": 3.17,
+          "y": 4.56,
+          "radius": 0.47
+        },
+        {
+          "x": 3.67,
+          "y": 4.63,
+          "radius": 0.39
+        },
+        {
+          "x": 2.73,
+          "y": -0.21,
+          "radius": 0.4
+        },
+        {
+          "x": 3.68,
+          "y": 0.74,
+          "radius": 0.35
+        },
+        {
+          "x": 1.39,
+          "y": -0.19,
+          "radius": 0.45
+        },
+        {
+          "x": 3.22,
+          "y": 2.05,
+          "radius": 0.35
+        }
+      ],
+      "obstacle_count": 6,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 366,
+      "final_position_m": {
+        "x": -0.0,
+        "y": 0.017
+      },
+      "final_heading_rad": -1.633,
+      "final_distance_m": 0.017,
+      "return_start_distance_m": 12.952,
+      "minimum_clearance_m": 0.608,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 12",
+      "obstacles": [
+        {
+          "x": 2.94,
+          "y": 0.18,
+          "radius": 0.25
+        },
+        {
+          "x": 1.16,
+          "y": 4.33,
+          "radius": 0.26
+        },
+        {
+          "x": 2.19,
+          "y": 1.12,
+          "radius": 0.44
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 369,
+      "final_position_m": {
+        "x": 0.008,
+        "y": -0.015
+      },
+      "final_heading_rad": 2.083,
+      "final_distance_m": 0.017,
+      "return_start_distance_m": 13.154,
+      "minimum_clearance_m": 0.662,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 13",
+      "obstacles": [
+        {
+          "x": 0.81,
+          "y": 1.86,
+          "radius": 0.42
+        },
+        {
+          "x": 2.64,
+          "y": 4.48,
+          "radius": 0.37
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 1.213,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 14",
+      "obstacles": [
+        {
+          "x": 3.16,
+          "y": 3.83,
+          "radius": 0.29
+        },
+        {
+          "x": 2.93,
+          "y": 1.6,
+          "radius": 0.33
+        },
+        {
+          "x": 3.27,
+          "y": 3.07,
+          "radius": 0.27
+        },
+        {
+          "x": 2.42,
+          "y": 0.17,
+          "radius": 0.48
+        },
+        {
+          "x": 0.89,
+          "y": 2.27,
+          "radius": 0.46
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 296,
+      "final_position_m": {
+        "x": -0.048,
+        "y": -0.011
+      },
+      "final_heading_rad": 0.017,
+      "final_distance_m": 0.049,
+      "return_start_distance_m": 8.224,
+      "minimum_clearance_m": 0.593,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 15",
+      "obstacles": [
+        {
+          "x": 4.43,
+          "y": 2.85,
+          "radius": 0.37
+        },
+        {
+          "x": 3.62,
+          "y": -0.88,
+          "radius": 0.41
+        },
+        {
+          "x": 1.64,
+          "y": 4.3,
+          "radius": 0.47
+        },
+        {
+          "x": 1.29,
+          "y": 2.97,
+          "radius": 0.3
+        },
+        {
+          "x": 1.87,
+          "y": 2.2,
+          "radius": 0.47
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 440,
+      "final_position_m": {
+        "x": 0.034,
+        "y": 0.012
+      },
+      "final_heading_rad": -2.683,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 13.827,
+      "minimum_clearance_m": 0.614,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 16",
+      "obstacles": [
+        {
+          "x": 2.01,
+          "y": 1.06,
+          "radius": 0.32
+        },
+        {
+          "x": 2.84,
+          "y": 3.68,
+          "radius": 0.35
+        },
+        {
+          "x": 2.71,
+          "y": 0.95,
+          "radius": 0.37
+        },
+        {
+          "x": 1.22,
+          "y": 3.78,
+          "radius": 0.45
+        },
+        {
+          "x": 4.21,
+          "y": 4.09,
+          "radius": 0.31
+        }
+      ],
+      "obstacle_count": 5,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 387,
+      "final_position_m": {
+        "x": 0.031,
+        "y": -0.006
+      },
+      "final_heading_rad": 2.983,
+      "final_distance_m": 0.031,
+      "return_start_distance_m": 14.345,
+      "minimum_clearance_m": 0.598,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 17",
+      "obstacles": [
+        {
+          "x": 4.48,
+          "y": 2.87,
+          "radius": 0.35
+        },
+        {
+          "x": 4.07,
+          "y": 4.1,
+          "radius": 0.42
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 395,
+      "final_position_m": {
+        "x": 0.029,
+        "y": 0.006
+      },
+      "final_heading_rad": 3.133,
+      "final_distance_m": 0.029,
+      "return_start_distance_m": 15.0,
+      "minimum_clearance_m": 2.311,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 18",
+      "obstacles": [
+        {
+          "x": 2.21,
+          "y": -0.06,
+          "radius": 0.39
+        },
+        {
+          "x": 3.16,
+          "y": 2.23,
+          "radius": 0.28
+        }
+      ],
+      "obstacle_count": 2,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 366,
+      "final_position_m": {
+        "x": 0.011,
+        "y": 0.028
+      },
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.03,
+      "return_start_distance_m": 12.911,
+      "minimum_clearance_m": 0.586,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 19",
+      "obstacles": [
+        {
+          "x": 3.09,
+          "y": 2.41,
+          "radius": 0.3
+        },
+        {
+          "x": 1.97,
+          "y": 0.61,
+          "radius": 0.39
+        },
+        {
+          "x": 1.14,
+          "y": 0.58,
+          "radius": 0.49
+        },
+        {
+          "x": 1.44,
+          "y": 3.11,
+          "radius": 0.44
+        }
+      ],
+      "obstacle_count": 4,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 368,
+      "final_position_m": {
+        "x": -0.01,
+        "y": 0.035
+      },
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.036,
+      "return_start_distance_m": 13.08,
+      "minimum_clearance_m": 0.613,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    },
+    {
+      "name": "Seed 2026 - Generated 20",
+      "obstacles": [
+        {
+          "x": 3.48,
+          "y": -0.36,
+          "radius": 0.33
+        },
+        {
+          "x": 3.23,
+          "y": -0.62,
+          "radius": 0.48
+        },
+        {
+          "x": 1.39,
+          "y": 0.54,
+          "radius": 0.25
+        }
+      ],
+      "obstacle_count": 3,
+      "collision_steps": 0,
+      "arrival": true,
+      "arrival_step": 382,
+      "final_position_m": {
+        "x": 0.018,
+        "y": -0.012
+      },
+      "final_heading_rad": 2.533,
+      "final_distance_m": 0.022,
+      "return_start_distance_m": 13.995,
+      "minimum_clearance_m": 0.632,
+      "final_mode": "RETURN_HOME",
+      "avoiding_obstacle": false,
+      "avoidance_steps": 0
+    }
+  ]
+}

@@ -390,14 +390,14 @@
       "obstacle_count": 5,
       "collision_steps": 0,
       "arrival": true,
-      "arrival_step": 366,
+      "arrival_step": 350,
       "final_position_m": {
-        "x": 0.003,
-        "y": -0.046
+        "x": 0.008,
+        "y": -0.039
       },
       "final_heading_rad": 1.633,
-      "final_distance_m": 0.046,
-      "return_start_distance_m": 12.96,
+      "final_distance_m": 0.039,
+      "return_start_distance_m": 11.839,
       "minimum_clearance_m": 0.644,
       "final_mode": "RETURN_HOME",
       "avoiding_obstacle": false,
@@ -755,14 +755,14 @@
       "obstacle_count": 6,
       "collision_steps": 0,
       "arrival": true,
-      "arrival_step": 375,
+      "arrival_step": 376,
       "final_position_m": {
-        "x": 0.008,
-        "y": 0.031
+        "x": 0.007,
+        "y": 0.019
       },
-      "final_heading_rad": -1.783,
-      "final_distance_m": 0.032,
-      "return_start_distance_m": 13.545,
+      "final_heading_rad": -1.933,
+      "final_distance_m": 0.02,
+      "return_start_distance_m": 13.568,
       "minimum_clearance_m": 0.623,
       "final_mode": "RETURN_HOME",
       "avoiding_obstacle": false,
@@ -895,14 +895,14 @@
       "obstacle_count": 6,
       "collision_steps": 0,
       "arrival": true,
-      "arrival_step": 376,
+      "arrival_step": 369,
       "final_position_m": {
-        "x": -0.008,
-        "y": 0.022
+        "x": -0.003,
+        "y": 0.019
       },
-      "final_heading_rad": -1.2,
-      "final_distance_m": 0.023,
-      "return_start_distance_m": 13.7,
+      "final_heading_rad": -1.333,
+      "final_distance_m": 0.019,
+      "return_start_distance_m": 13.129,
       "minimum_clearance_m": 0.562,
       "final_mode": "RETURN_HOME",
       "avoiding_obstacle": false,
