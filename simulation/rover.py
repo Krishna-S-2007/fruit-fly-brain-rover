@@ -34,6 +34,12 @@ class Rover:
         self.avoidance_forward_threshold = 0.75
         self.required_clear_steps = 5
 
+        # Exploration heading restoration.
+        # Save the original heading before an exploration detour
+        # and return to it after the obstacle has been cleared.
+        self.exploration_heading = heading
+        self.restore_exploration_heading = False
+
         # Recovery state.
         self.recovering = False
         self.recovery_steps = 0
@@ -55,6 +61,10 @@ class Rover:
 
     def return_home(self):
         self.mode = "RETURN_HOME"
+
+        # Exploration heading restoration is no longer relevant
+        # once the rover has been instructed to return home.
+        self.restore_exploration_heading = False
 
     def _distance_at_heading(self, world, heading):
         obstacle = world.front_obstacle(
@@ -281,7 +291,16 @@ class Rover:
             self.avoidance_steps = 0
             self.clear_steps = 0
 
-            # Preserve the detour across avoidance exit.
+            # Preserve the original exploration heading across
+            # avoidance and subsequent heading restoration.
+            if (
+                self.mode == "EXPLORE"
+                and not self.restore_exploration_heading
+            ):
+                self.exploration_heading = self.heading
+                self.restore_exploration_heading = True
+
+            # Preserve the homing detour during return-home.
             if self.mode == "RETURN_HOME":
                 self.homing_detour = True
 
@@ -308,7 +327,7 @@ class Rover:
             if obstacle_distance >= self.clearance_threshold:
                 self.clear_steps += 1
 
-                # Keep moving cautiously through the clear area.
+                # Move cautiously through the clear area.
                 command = MotionCommand(
                     self.avoidance_forward_speed,
                     0.0,
@@ -393,6 +412,25 @@ class Rover:
                 command = MotionCommand(0.7, 0.0)
 
         else:
-            command = MotionCommand(1.0, 0.0)
+            # Restore the original exploration heading after
+            # avoidance, then resume normal forward exploration.
+            if self.restore_exploration_heading:
+                heading_error = normalize_angle(
+                    self.exploration_heading - self.heading
+                )
+
+                if abs(heading_error) > self.heading_tolerance:
+                    command = MotionCommand(
+                        0.0,
+                        math.copysign(
+                            self.turn_rate,
+                            heading_error,
+                        ),
+                    )
+                else:
+                    self.restore_exploration_heading = False
+                    command = MotionCommand(1.0, 0.0)
+            else:
+                command = MotionCommand(1.0, 0.0)
 
         return self._execute(command, dt, obstacle)
